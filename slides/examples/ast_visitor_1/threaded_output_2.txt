@@ -1,0 +1,1312 @@
+004075.cpp
+004076.cpp arr arrlen Choice dev Devider Index Len NewWord Slovo ValidCount ValidWords WordNumber Words WordsCount
+004077.cpp arr arrlen Choice dev Devider Index Len NewWord Slovo ValidCount ValidWords WordNumber Words WordsCount
+004078.cpp
+004081.cpp Choice dev Devider Index Len NewWord Slovo symtab
+004082.cpp Choice dev Devider Index Len NewWord Slovo symtab
+004083.cpp
+004085.cpp
+004086.cpp
+004093.cpp
+004094.cpp
+004095.cpp
+004096.cpp
+004097.cpp
+004098.cpp
+004099.cpp
+004100.cpp
+004101.cpp
+004102.cpp
+004103.cpp
+004104.cpp
+004105.cpp
+004106.cpp
+004107.cpp
+004108.cpp ancestor dsu graph query u
+004112.cpp ancestor dsu graph query u
+004116.cpp
+004117.cpp
+004118.cpp
+004119.cpp
+004122.cpp
+004123.cpp
+004124.cpp
+004125.cpp ancestor dsu graph query root u
+004126.cpp ancestor dsu graph query root u
+004127.cpp
+004129.cpp
+004130.cpp
+004131.cpp
+004132.cpp
+004133.cpp
+004134.cpp
+004136.cpp
+004137.cpp
+004140.cpp
+004150.cpp
+004154.cpp
+004155.cpp
+004159.cpp
+004161.cpp
+004165.cpp
+004166.cpp
+004194.cpp depth graph numNodes parent used
+004198.cpp
+004199.cpp depth graph numNodes parent used
+004205.cpp blobSize chunks inertia numChunks speed spread spread
+004206.cpp
+004210.cpp
+004211.cpp
+004212.cpp
+004218.cpp
+004220.cpp
+004221.cpp
+004224.cpp
+004226.cpp
+004233.cpp Choice dev Devider NewWord node root Slovo
+004234.cpp actual_labels actual_labels actual_labels ans array_of_labels array_of_labels array_of_labels dictionary filled1 filled2 filled3 labels_id labels_id res s s1 s2 s3 templates_weight trash
+004236.cpp
+004240.cpp
+004241.cpp
+004243.cpp
+004244.cpp
+004245.cpp Choice crnt dev Devider NewWord node root Slovo
+004246.cpp Choice crnt dev Devider NewWord node root Slovo
+004247.cpp
+004248.cpp Choice crnt dev Devider NewWord node root Slovo
+004249.cpp Choice crnt dev Devider NewWord node root Slovo
+004250.cpp Choice crnt dev Devider NewWord node root Slovo
+004251.cpp Choice crnt dev Devider NewWord node root Slovo
+004252.cpp Choice crnt dev Devider NewWord node root Slovo
+004253.cpp Choice crnt dev Devider NewWord node root Slovo
+004254.cpp Choice crnt dev Devider NewWord node root Slovo
+004255.cpp Choice crnt dev Devider NewWord node root Slovo
+004256.cpp blobSize chunks numChunks spread
+004257.cpp blobSize chunks numChunks spread
+004258.cpp blobSize chunks numChunks spread
+004261.cpp actual_labels array_of_labels dictionary filled1 filled2 filled3 labels_id res s s1 s2 s3 templates_weight trash
+004263.cpp blobSize chunks numChunks spread
+004264.cpp Choice crnt dev Devider NewWord node root Slovo
+004265.cpp Choice crnt dev Devider NewWord node root Slovo
+004266.cpp Choice crnt dev Devider NewWord node root Slovo
+004267.cpp Choice crnt dev Devider NewWord node root Slovo WordsCount
+004268.cpp Choice crnt dev Devider NewWord node root Slovo WordsCount
+004269.cpp actual_labels array_of_labels dictionary filled1 filled2 filled3 labels_id res s s1 s2 s3 templates_weight trash
+004272.cpp
+004273.cpp
+004274.cpp
+004275.cpp
+004276.cpp actual_labels array_of_labels dictionary filled1 filled2 filled3 labels_id res s s1 s2 s3 templates_weight trash
+004277.cpp actual_labels array_of_labels dictionary filled1 filled2 filled3 labels_id res s s1 s2 s3 templates_weight trash
+004278.cpp actual_labels array_of_labels dictionary filled1 filled2 filled3 labels_id res s s1 s2 s3 templates_weight trash
+004280.cpp ancestor dsu graph query root u
+004284.cpp
+004288.cpp ancestor current_ancestor dist dsu edges_dist from graph num_of_nodes num_of_pairs q to used
+004289.cpp
+004292.cpp
+004293.cpp
+004294.cpp F
+004295.cpp F
+004299.cpp
+004300.cpp F
+004301.cpp F
+004302.cpp F
+004303.cpp
+004304.cpp F
+004305.cpp
+004306.cpp
+004307.cpp
+004308.cpp
+004310.cpp
+004312.cpp
+004313.cpp
+004315.cpp
+004319.cpp
+004320.cpp
+004321.cpp
+004325.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004326.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004327.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004328.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004329.cpp
+004330.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004331.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004332.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004333.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004334.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004335.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004336.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004337.cpp
+004338.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004339.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004340.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004341.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004342.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004343.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004344.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004345.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004346.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004347.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004348.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004349.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004350.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004351.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004352.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004353.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004355.cpp
+004356.cpp
+004357.cpp
+004359.cpp
+004360.cpp
+004361.cpp
+004362.cpp
+004363.cpp
+004364.cpp
+004365.cpp
+004366.cpp
+004367.cpp
+004368.cpp
+004369.cpp
+004370.cpp
+004371.cpp
+004372.cpp
+004373.cpp
+004374.cpp
+004375.cpp
+004376.cpp
+004377.cpp
+004378.cpp
+004379.cpp
+004380.cpp
+004381.cpp
+004382.cpp
+004383.cpp
+004384.cpp
+004385.cpp
+004386.cpp
+004388.cpp
+004389.cpp
+004390.cpp
+004391.cpp
+004392.cpp
+004393.cpp
+004394.cpp
+004395.cpp infile
+004396.cpp
+004397.cpp
+004398.cpp
+004399.cpp
+004400.cpp
+004401.cpp infile
+004402.cpp
+004403.cpp
+004404.cpp infile
+004405.cpp
+004406.cpp
+004407.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004408.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004409.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004410.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004411.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004412.cpp color digit digit_bottom digit_left digit_right digit_top dsu graph height length num_of_digits num_of_nodes picture template_digit used
+004413.cpp
+004414.cpp
+004415.cpp
+004416.cpp
+004417.cpp
+004418.cpp
+004419.cpp
+004420.cpp
+004421.cpp
+004422.cpp
+004423.cpp
+004424.cpp
+004425.cpp
+004426.cpp
+004427.cpp
+004428.cpp
+004429.cpp
+004430.cpp
+004431.cpp
+004432.cpp
+004433.cpp
+004434.cpp
+004435.cpp
+004436.cpp
+004437.cpp
+004438.cpp
+004439.cpp
+004440.cpp
+004441.cpp
+004442.cpp
+004443.cpp
+004444.cpp
+004445.cpp
+004446.cpp
+004447.cpp
+004448.cpp
+004449.cpp
+004450.cpp
+004451.cpp
+004453.cpp
+004454.cpp
+004455.cpp
+004456.cpp
+004457.cpp
+004458.cpp
+004459.cpp
+004463.cpp
+004464.cpp
+004466.cpp
+004467.cpp
+004468.cpp
+004471.cpp order t tCount
+004473.cpp
+004474.cpp order t tCount
+004476.cpp
+004482.cpp
+004483.cpp order t tCount
+004484.cpp order t tCount
+004485.cpp order t tCount
+004486.cpp order t tCount
+004488.cpp fnd root tr_vect
+004489.cpp order t tCount
+004490.cpp fnd root tr_vect
+004491.cpp
+004492.cpp
+004493.cpp
+004494.cpp
+004503.cpp myObject
+004504.cpp myObject
+004505.cpp myObject
+004506.cpp myObject
+004507.cpp voc
+004508.cpp myObject
+004509.cpp myObject
+004510.cpp voc
+004511.cpp voc
+004512.cpp myObject
+004513.cpp myObject
+004514.cpp myObject
+004515.cpp myObject
+004516.cpp myObject
+004517.cpp myObject
+004518.cpp
+004519.cpp
+004520.cpp
+004521.cpp myObject
+004522.cpp
+004523.cpp
+004524.cpp
+004525.cpp
+004526.cpp
+004527.cpp
+004528.cpp
+004529.cpp
+004530.cpp
+004531.cpp
+004532.cpp e p v
+004533.cpp
+004534.cpp
+004535.cpp
+004536.cpp
+004537.cpp
+004538.cpp
+004539.cpp
+004540.cpp
+004541.cpp
+004542.cpp
+004543.cpp
+004547.cpp
+004548.cpp
+004549.cpp
+004550.cpp
+004551.cpp
+004552.cpp
+004553.cpp order t tCount
+004554.cpp order t tCount
+004555.cpp order t tCount
+004556.cpp
+004557.cpp order t tCount
+004558.cpp order t tCount tCountPrev
+004565.cpp order t tCount tCountPrev
+004566.cpp order t tCount tCountPrev
+004567.cpp BitsLen Buffer Buffer2 Code FigureHeight FigureImg FigureSize FigureWidth fin FontsFigures fout Height Image Size Width
+004568.cpp
+004569.cpp
+004571.cpp
+004572.cpp
+004573.cpp
+004575.cpp BitsLen Buffer Buffer2 Code FigureHeight FigureImg FigureSize FigureWidth fin FontsFigures fout Height Image Size Width
+004576.cpp BitsLen Buffer Buffer2 Code FigureHeight FigureImg FigureSize FigureWidth fin FontsFigures fout Height Image Size Width
+004577.cpp order t tCount tCountPrev
+004578.cpp
+004580.cpp
+004581.cpp order t tCount tCountPrev
+004582.cpp
+004583.cpp
+004584.cpp
+004585.cpp order t tCount tCountPrev
+004586.cpp order t tCount tCountPrev
+004587.cpp order t tCount tCountPrev
+004591.cpp order t tCount tCountPrev
+004592.cpp order t tCount tCountPrev
+004593.cpp
+004594.cpp order t tCount tCountPrev w
+004599.cpp
+004600.cpp
+004601.cpp
+004602.cpp
+004603.cpp
+004604.cpp
+004605.cpp
+004606.cpp
+004607.cpp
+004608.cpp
+004609.cpp
+004610.cpp
+004611.cpp
+004612.cpp
+004613.cpp
+004614.cpp
+004615.cpp
+004616.cpp
+004617.cpp
+004618.cpp
+004619.cpp
+004620.cpp
+004621.cpp
+004622.cpp
+004623.cpp
+004624.cpp
+004626.cpp depth graph l N time_in time_out timer up used
+004629.cpp depth graph l N time_in time_out timer up used
+004630.cpp Mapping
+004631.cpp
+004632.cpp
+004633.cpp depth graph l N time_in time_out timer up used
+004634.cpp depth graph l N time_in time_out timer up used
+004635.cpp buttons message sequence vocabulary
+004636.cpp
+004637.cpp buttons message sequence vocabulary
+004639.cpp
+004640.cpp letter_keys message sequence vocabulary
+004641.cpp letter_keys message sequence vocabulary
+004642.cpp letter_keys message sequence vocabulary
+004644.cpp letter_keys message sequence vocabulary
+004645.cpp letter_keys message sequence vocabulary
+004646.cpp letter_keys message sequence vocabulary
+004647.cpp
+004648.cpp
+004652.cpp
+004653.cpp
+004654.cpp letter_keys message sequence vocabulary
+004655.cpp letter_keys message sequence vocabulary
+004656.cpp
+004657.cpp
+004658.cpp
+004659.cpp
+004660.cpp
+004662.cpp
+004663.cpp
+004666.cpp
+004667.cpp
+004668.cpp iCurrentFreq
+004672.cpp
+004673.cpp
+004674.cpp
+004675.cpp
+004685.cpp
+004688.cpp
+004689.cpp depth depth_bin graph Nodes parent used way way_bin
+004690.cpp depth depth_bin graph Nodes parent used way way_bin
+004691.cpp
+004692.cpp
+004698.cpp iAdditionalFrequetly
+004699.cpp First graph High N Order QN used
+004700.cpp iAdditionalFrequetly
+004701.cpp iAdditionalFrequetly
+004702.cpp iAdditionalFrequetly
+004703.cpp iAdditionalFrequetly iCurrentFreq
+004719.cpp
+004720.cpp
+004722.cpp
+004724.cpp
+004727.cpp
+004728.cpp
+004734.cpp
+004742.cpp
+004743.cpp
+004760.cpp
+004761.cpp
+004763.cpp
+004764.cpp
+004765.cpp CharToColor
+004766.cpp
+004767.cpp
+004768.cpp
+004769.cpp digit hits image samples
+004770.cpp digit hits image samples
+004771.cpp digit hits image samples
+004772.cpp digit hits image samples
+004773.cpp digit hits image samples
+004774.cpp Cost
+004775.cpp digit hits image samples samplesN
+004776.cpp
+004785.cpp
+004786.cpp depth depth_bin parent tree used way way_bin
+004787.cpp depth depth_bin parent tree used way way_bin
+004788.cpp CharToColor
+004789.cpp digit hits image samples samplesN
+004790.cpp digit hits image samples samplesN
+004791.cpp digit hits image samples samplesN
+004792.cpp digit hits image samples samplesN
+004793.cpp digit hits image samples samplesN
+004794.cpp digit hits image samples samplesN
+004795.cpp digit hits image samples samplesN
+004796.cpp First graph High N Order QN used
+004797.cpp First graph High N Order QN used
+004798.cpp First graph High N Order QN used
+004799.cpp letter_keys message sequence vocabulary
+004800.cpp digit hits image samples samplesN
+004801.cpp CharToColor
+004802.cpp CharToColor
+004803.cpp CharToColor
+004804.cpp CharToColor
+004805.cpp CharToColor
+004806.cpp CharToColor
+004807.cpp CharToColor
+004808.cpp CharToColor
+004809.cpp CharToColor
+004810.cpp data lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004811.cpp data lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004812.cpp data lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004813.cpp data lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004814.cpp CharToColor
+004815.cpp edges lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004816.cpp e edges lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004817.cpp e edges lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004818.cpp e edges lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004819.cpp e edges lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004820.cpp e edges lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004825.cpp
+004826.cpp
+004827.cpp
+004829.cpp
+004830.cpp
+004831.cpp
+004832.cpp
+004834.cpp e edges lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004835.cpp e edges lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+004836.cpp e edges lca_dfs_list lca_dfs_used lca_first lca_h lca_tree parents
+004837.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree parents
+004838.cpp dt
+004839.cpp dt
+004840.cpp dt
+004841.cpp dt
+004842.cpp dt
+004843.cpp dt
+004844.cpp dt
+004845.cpp dt
+004846.cpp dt
+004847.cpp dt
+004848.cpp dt
+004849.cpp dt
+004850.cpp dt
+004859.cpp
+004860.cpp
+004861.cpp
+004862.cpp
+004863.cpp
+004864.cpp
+004866.cpp
+004869.cpp
+004875.cpp
+004876.cpp
+004877.cpp
+004878.cpp
+004879.cpp
+004885.cpp
+004886.cpp
+004888.cpp dic in keyboard N out prefers puncts words
+004889.cpp dic keyboard N prefers puncts words
+004892.cpp graph m n search_v way_l
+004893.cpp graph m n search_v way_l
+004894.cpp graph m n search_v way_l
+004895.cpp graph m n search_v way_l
+004896.cpp dic keyboard N prefers puncts words
+004899.cpp graph m n
+004900.cpp dist graph m n
+004901.cpp dist graph m n
+004905.cpp dic keyboard N prefers puncts words
+004908.cpp M N
+004909.cpp M N
+004911.cpp M N
+004913.cpp M N
+004914.cpp M N
+004915.cpp M N
+004916.cpp M N
+004918.cpp dic keyboard N prefers puncts words
+004919.cpp M N
+004920.cpp dic keyboard N prefers puncts words
+004921.cpp dic keyboard N prefers puncts words
+004922.cpp M N
+004923.cpp M N
+004924.cpp
+004925.cpp M N
+004926.cpp
+004927.cpp M N
+004928.cpp
+004929.cpp M N
+004930.cpp graph m n
+004931.cpp graph m n
+004932.cpp dists first height kids M N order used
+004933.cpp dists first height kids M N order used
+004935.cpp dic keyboard N prefers puncts words
+004936.cpp graph index_c index_real maxid n
+004939.cpp graph index_c index_real maxid n
+004940.cpp M N
+004941.cpp M N
+004942.cpp M N
+004943.cpp M N
+004944.cpp
+004947.cpp M N
+004948.cpp dic keyboard N prefers puncts
+004949.cpp dists first height kids M N order used
+004950.cpp M N
+004951.cpp
+004952.cpp
+004953.cpp
+004954.cpp dic keyboard letters N prefers puncts
+004955.cpp dic keyboard N prefers puncts
+004958.cpp
+004961.cpp dictionary text_n words_num
+004962.cpp dictionary text_n words_num
+004963.cpp dictionary text_n words_num
+004964.cpp dists first height kids M N order used
+004965.cpp dists first height kids M N order used
+004966.cpp
+004967.cpp
+004968.cpp
+004972.cpp
+004975.cpp
+004978.cpp dists height kids level M N tree used
+004988.cpp dic keyboard N puncts
+004989.cpp dic keyboard N puncts
+004990.cpp graph index_c index_real maxid n
+004991.cpp dic keyboard N puncts
+004992.cpp dic keyboard N puncts
+005005.cpp a c cost i j k
+005006.cpp dic keyboard N puncts
+005007.cpp dic N puncts
+005008.cpp dic N puncts
+005009.cpp dic N puncts
+005010.cpp dic N puncts
+005011.cpp dic N puncts
+005015.cpp
+005016.cpp
+005017.cpp
+005018.cpp
+005019.cpp
+005020.cpp
+005021.cpp
+005022.cpp
+005024.cpp buttons interp message N words
+005026.cpp buttons interp message N words
+005027.cpp buttons interp message N words
+005035.cpp
+005036.cpp buttons interp message N words
+005037.cpp buttons interp message N words
+005038.cpp fin fout horiz_codes in ledge_codes pallete redge_codes rpallete vert_codes
+005039.cpp fin fout horiz_codes in ledge_codes pallete redge_codes rpallete vert_codes
+005049.cpp
+005050.cpp
+005051.cpp
+005052.cpp
+005055.cpp
+005060.cpp vert_info
+005061.cpp vert_info
+005062.cpp vert_info
+005063.cpp vert_info
+005064.cpp
+005065.cpp
+005066.cpp
+005067.cpp
+005068.cpp
+005069.cpp
+005070.cpp
+005071.cpp a c cost i j k
+005072.cpp
+005073.cpp
+005074.cpp
+005113.cpp
+005114.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+005116.cpp
+005147.cpp
+005148.cpp
+005150.cpp
+005151.cpp
+005162.cpp
+005165.cpp
+005172.cpp
+005181.cpp
+005185.cpp
+005186.cpp
+005187.cpp
+005188.cpp
+005189.cpp
+005190.cpp
+005191.cpp
+005192.cpp
+005193.cpp
+005198.cpp
+005201.cpp
+005202.cpp
+005203.cpp
+005204.cpp
+005205.cpp
+005206.cpp
+005207.cpp
+005208.cpp
+005209.cpp
+005210.cpp
+005211.cpp
+005212.cpp
+005213.cpp
+005214.cpp
+005215.cpp
+005217.cpp
+005218.cpp
+005219.cpp
+005220.cpp
+005221.cpp
+005222.cpp
+005223.cpp
+005224.cpp
+005225.cpp
+005226.cpp
+005231.cpp
+005234.cpp
+005247.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree lca_w_list wh
+005250.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree lca_w_list wh
+005251.cpp
+005252.cpp
+005253.cpp
+005254.cpp
+005257.cpp
+005259.cpp
+005260.cpp
+005264.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005265.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005266.cpp
+005267.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005270.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005271.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005272.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005273.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005274.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005283.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005284.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005285.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005286.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005287.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005288.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005289.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005290.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005291.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005292.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005293.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005294.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005295.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005296.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005297.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005298.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005299.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005300.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005301.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005305.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005307.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005311.cpp
+005313.cpp
+005314.cpp
+005338.cpp
+005348.cpp
+005359.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005360.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005361.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005362.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005381.cpp
+005382.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005383.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005384.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005385.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005386.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005387.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005388.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005389.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005390.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005391.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005392.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005393.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005394.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005395.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005396.cpp buf pic pic1 pic2 pic3 templatesL templatesR xmax xmin ymax ymin
+005397.cpp
+005398.cpp
+005399.cpp
+005401.cpp
+005403.cpp
+005404.cpp
+005406.cpp
+005407.cpp
+005408.cpp
+005409.cpp
+005410.cpp
+005411.cpp
+005416.cpp
+005417.cpp
+005418.cpp
+005420.cpp
+005424.cpp
+005429.cpp
+005431.cpp
+005432.cpp
+005433.cpp
+005434.cpp
+005435.cpp
+005436.cpp
+005437.cpp
+005441.cpp
+005479.cpp
+005480.cpp
+005521.cpp
+005524.cpp
+005525.cpp
+005526.cpp
+005527.cpp
+005528.cpp
+005530.cpp
+005532.cpp
+005533.cpp
+005535.cpp
+005536.cpp
+005537.cpp
+005538.cpp
+005539.cpp
+005540.cpp
+005542.cpp
+005544.cpp
+005545.cpp
+005547.cpp
+005549.cpp
+005550.cpp
+005551.cpp
+005553.cpp
+005554.cpp
+005557.cpp
+005558.cpp
+005559.cpp
+005560.cpp
+005561.cpp
+005562.cpp
+005563.cpp
+005564.cpp
+005565.cpp
+005566.cpp
+005567.cpp
+005568.cpp
+005569.cpp
+005570.cpp
+005571.cpp
+005572.cpp
+005573.cpp
+005574.cpp
+005575.cpp
+005576.cpp
+005577.cpp
+005578.cpp
+005579.cpp
+005580.cpp
+005581.cpp
+005582.cpp
+005583.cpp
+005584.cpp
+005585.cpp
+005586.cpp
+005587.cpp
+005588.cpp
+005589.cpp
+005590.cpp
+005591.cpp
+005592.cpp
+005593.cpp
+005594.cpp
+005595.cpp
+005596.cpp
+005597.cpp
+005598.cpp
+005599.cpp
+005600.cpp
+005601.cpp
+005602.cpp
+005603.cpp
+005604.cpp
+005605.cpp
+005606.cpp
+005611.cpp
+005613.cpp
+005614.cpp
+005652.cpp
+005653.cpp
+005654.cpp
+005655.cpp
+005656.cpp
+005659.cpp
+005670.cpp
+005671.cpp
+005686.cpp
+005687.cpp
+005688.cpp
+005689.cpp
+005690.cpp
+005691.cpp
+005692.cpp
+005693.cpp
+005694.cpp
+005713.cpp g l n pairs timer tin tout up used
+005715.cpp tree
+005716.cpp tree
+005717.cpp tree
+005718.cpp tree
+005720.cpp ix stack1 stack2 stack3 tree
+005724.cpp ix stack1 tree
+005727.cpp
+005728.cpp dict wd
+005733.cpp dict wd
+005734.cpp
+005736.cpp
+005738.cpp
+005739.cpp
+005740.cpp
+005741.cpp
+005742.cpp
+005743.cpp
+005744.cpp
+005751.cpp
+005753.cpp
+005754.cpp
+005755.cpp
+005758.cpp
+005761.cpp
+005766.cpp
+005812.cpp dict
+005818.cpp _acount _apool cost depth n pn tpos tree ve
+005819.cpp _ncount _npool _wcount _wpool first keys last root text
+005820.cpp _ncount _npool _wcount _wpool first keys last root text
+005821.cpp _ncount _npool _wcount _wpool first keys last root text
+005822.cpp _ncount _npool _wcount _wpool first keys last root text
+005823.cpp buf iheight iwidth p PerceptronData
+005840.cpp
+005841.cpp
+005842.cpp
+005846.cpp
+005847.cpp
+005848.cpp
+005849.cpp
+005850.cpp
+005852.cpp
+005854.cpp
+005855.cpp
+005856.cpp
+005857.cpp
+005858.cpp
+005859.cpp
+005860.cpp
+005861.cpp
+005865.cpp cin
+005866.cpp cin
+005867.cpp
+005868.cpp
+005869.cpp
+005872.cpp alphabet dictionary
+005873.cpp alphabet dictionary
+005874.cpp alphabet dictionary
+005877.cpp
+005878.cpp
+005879.cpp count N
+005880.cpp count N
+005881.cpp count N
+005882.cpp count N
+005883.cpp count N
+005884.cpp count N
+005885.cpp count N
+005886.cpp count N
+005887.cpp count N
+005900.cpp
+005901.cpp count N
+005902.cpp count N
+005903.cpp count N
+005904.cpp count N
+005905.cpp count N
+005906.cpp count N
+005907.cpp count N
+005908.cpp depth_list graph used_list visited_list visited_list_pos
+005923.cpp count N
+005924.cpp count N
+005925.cpp count N
+005926.cpp count N
+005927.cpp
+005928.cpp
+005929.cpp
+005931.cpp dict n output search_result shortcuts updated
+005932.cpp dict n output search_result shortcuts updated
+005933.cpp dict n output search_result shortcuts updated
+005936.cpp
+005937.cpp
+005938.cpp
+005939.cpp
+005940.cpp
+005941.cpp
+005943.cpp
+005944.cpp
+005945.cpp dict output search_result shortcuts updated
+005946.cpp dict output search_result shortcuts updated
+005947.cpp dict output search_result shortcuts updated
+005948.cpp
+005949.cpp
+005951.cpp dict letters_index output search_result updated
+005956.cpp
+005957.cpp
+005958.cpp
+005962.cpp
+005963.cpp
+005966.cpp
+005968.cpp
+005969.cpp
+005970.cpp
+005971.cpp
+005972.cpp
+005973.cpp
+005974.cpp
+005975.cpp
+005976.cpp
+005977.cpp
+005978.cpp bqplinone data wqplinone
+005979.cpp bqplinone data wqplinone
+005980.cpp bqplinone data wqplinone
+005981.cpp ancestor dsu graph path_length query u
+005982.cpp ancestor dsu graph path_length query u
+005983.cpp ancestor dsu graph path_length query u
+005984.cpp ancestor dsu graph path_length query u
+006003.cpp ancestor dsu graph path_length query u
+006008.cpp
+006009.cpp
+006010.cpp
+006011.cpp
+006012.cpp
+006013.cpp
+006014.cpp
+006015.cpp
+006018.cpp
+006020.cpp size
+006021.cpp size
+006022.cpp
+006025.cpp
+006026.cpp
+006027.cpp
+006028.cpp
+006031.cpp
+006032.cpp
+006033.cpp
+006034.cpp
+006035.cpp
+006036.cpp
+006037.cpp
+006038.cpp
+006039.cpp
+006040.cpp
+006093.cpp
+006095.cpp ancestor ans branch_length dsu G Q u
+006096.cpp ancestor ans branch_length dsu G Q u
+006097.cpp
+006098.cpp
+006099.cpp
+006120.cpp
+006121.cpp
+006136.cpp
+006137.cpp
+006138.cpp
+006139.cpp
+006144.cpp
+006145.cpp
+006146.cpp
+006147.cpp
+006148.cpp
+006151.cpp
+006152.cpp
+006153.cpp
+006154.cpp
+006155.cpp
+006156.cpp
+006157.cpp
+006158.cpp
+006159.cpp
+006160.cpp
+006161.cpp
+006162.cpp
+006163.cpp
+006164.cpp
+006165.cpp
+006170.cpp
+006172.cpp
+006174.cpp
+006175.cpp
+006176.cpp
+006177.cpp
+006178.cpp
+006179.cpp
+006180.cpp
+006181.cpp
+006182.cpp
+006183.cpp
+006184.cpp
+006187.cpp
+006189.cpp
+006191.cpp
+006192.cpp
+006194.cpp
+006195.cpp
+006196.cpp
+006197.cpp
+006198.cpp
+006199.cpp
+006200.cpp
+006201.cpp
+006202.cpp
+006204.cpp
+006205.cpp
+006207.cpp
+006211.cpp
+006212.cpp
+006213.cpp
+006228.cpp
+006229.cpp
+006232.cpp
+006235.cpp
+006236.cpp
+006237.cpp
+006238.cpp
+006239.cpp
+006240.cpp
+006241.cpp
+006243.cpp
+006244.cpp
+006245.cpp
+006246.cpp
+006254.cpp arr N
+006255.cpp arr N
+006258.cpp
+006280.cpp arr N
+006281.cpp arr N
+006282.cpp arr N
+006286.cpp
+006291.cpp
+006292.cpp
+006293.cpp
+006294.cpp
+006295.cpp
+006296.cpp
+006299.cpp
+006300.cpp
+006302.cpp
+006303.cpp
+006304.cpp
+006306.cpp
+006307.cpp
+006309.cpp
+006313.cpp
+006314.cpp
+006315.cpp
+006316.cpp lca_dfs_list lca_dfs_visited lca_first lca_h lca_tree
+006317.cpp
+006318.cpp
+006319.cpp compliance points
+006320.cpp compliance points
+006321.cpp compliance points
+006322.cpp compliance points
+006323.cpp compliance points
+006324.cpp compliance points
+006326.cpp
+006327.cpp
+006336.cpp compliance points
+006337.cpp compliance points
+006347.cpp
+006348.cpp
+006349.cpp compliance points
+006350.cpp compliance points
+006354.cpp
+006366.cpp
+006367.cpp
+006368.cpp
+006369.cpp
+006370.cpp
+006371.cpp
+006372.cpp
+006374.cpp
+006375.cpp
+006376.cpp
+006379.cpp g r tin tout up used
+006380.cpp g r tin tout up used
+006381.cpp g r tin tout up used
+006382.cpp header points
+006384.cpp
+006385.cpp
+006386.cpp
+006387.cpp
+006388.cpp
+006390.cpp
+006392.cpp
+006395.cpp
+006400.cpp
+006401.cpp
+006402.cpp
+006404.cpp
+006405.cpp
+006410.cpp
+006411.cpp
+006412.cpp
+006413.cpp
+006414.cpp
+006415.cpp
+006416.cpp
+006417.cpp
+006418.cpp
+006419.cpp
+006424.cpp
+006425.cpp
+006427.cpp
+006432.cpp
+006434.cpp
+006436.cpp
+006439.cpp
+006440.cpp
+006441.cpp
+006442.cpp
+006443.cpp
+006445.cpp
+006446.cpp
+006447.cpp m
+006448.cpp
+006449.cpp
+006452.cpp
+006453.cpp
+006455.cpp
+006456.cpp
+006457.cpp
+006458.cpp
+006459.cpp
+006460.cpp
+006461.cpp
+006462.cpp
+006464.cpp compliance points
+006465.cpp compliance points
+006466.cpp
+006467.cpp
+006468.cpp
+006474.cpp
+006475.cpp
+006481.cpp
+006482.cpp
+006483.cpp
+006485.cpp
+006486.cpp
+006487.cpp
+006488.cpp
+006489.cpp
+006490.cpp
+006491.cpp
+006492.cpp
+006493.cpp
+006494.cpp
+006497.cpp
+006499.cpp
+006500.cpp
+006502.cpp
+006503.cpp
+006504.cpp
+006506.cpp
+006507.cpp
+006508.cpp
+006509.cpp
+006510.cpp full pathy ways
+006512.cpp full pathy ways
+006514.cpp full pathy ways
+006515.cpp
+006516.cpp
+006517.cpp
+006518.cpp
+006519.cpp
+006520.cpp
+006521.cpp
+006522.cpp
+006523.cpp
+006524.cpp
+006525.cpp
+006526.cpp
+006527.cpp
+006528.cpp
+006529.cpp
+006530.cpp
+006531.cpp
+006532.cpp
+006533.cpp
+006534.cpp
+006535.cpp
+006537.cpp
+006538.cpp
+006541.cpp
+006542.cpp
+006543.cpp
+006544.cpp
+006545.cpp
+006546.cpp
+006547.cpp
+006548.cpp
+006549.cpp
+006550.cpp begins dict first g m m_test n t
+006551.cpp
+006552.cpp
+006553.cpp
+006554.cpp
+006555.cpp
+006556.cpp
+006557.cpp
+006558.cpp
+006559.cpp
+006560.cpp
+006561.cpp
+006562.cpp
+006563.cpp
+006564.cpp
+006565.cpp
+006566.cpp
+006567.cpp
+006568.cpp
+006569.cpp
+006573.cpp
+006576.cpp
+006577.cpp
+006580.cpp
+006581.cpp
+006582.cpp
+006583.cpp
+006584.cpp
+006585.cpp
+006586.cpp
+006587.cpp
+006588.cpp
+006589.cpp
+006590.cpp
+006591.cpp
+006593.cpp
+006596.cpp

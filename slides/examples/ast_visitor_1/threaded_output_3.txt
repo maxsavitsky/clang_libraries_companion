@@ -1,0 +1,1312 @@
+006598.cpp
+006600.cpp
+006601.cpp
+006602.cpp
+006603.cpp
+006604.cpp
+006605.cpp it
+006606.cpp
+006607.cpp
+006608.cpp
+006609.cpp
+006610.cpp
+006611.cpp
+006612.cpp
+006613.cpp
+006614.cpp AllPath anc dsu q st u
+006615.cpp
+006616.cpp
+006617.cpp
+006618.cpp
+006619.cpp
+006620.cpp
+006621.cpp
+006622.cpp
+006623.cpp
+006624.cpp
+006625.cpp
+006626.cpp
+006627.cpp
+006628.cpp
+006629.cpp
+006630.cpp
+006631.cpp
+006632.cpp
+006633.cpp
+006636.cpp
+006637.cpp
+006638.cpp
+006639.cpp graph query sets u
+006640.cpp graph N query sets u
+006641.cpp graph N query sets u
+006642.cpp Etalon Q XY
+006643.cpp Etalon Q XY
+006644.cpp
+006645.cpp
+006646.cpp graph N query sets u
+006647.cpp First G index LINKS N Order Seg SegTree
+006649.cpp First G index LINKS N Order Seg SegTree
+006650.cpp
+006651.cpp First G index LINKS N Order Seg SegTree
+006652.cpp First G index LINKS N Order Seg SegTree
+006653.cpp First G index LINKS N Order Seg SegTree
+006655.cpp
+006656.cpp
+006657.cpp
+006658.cpp
+006659.cpp
+006661.cpp CtoI dict m n t
+006662.cpp CtoI dict m n t
+006663.cpp CtoI dict m n t
+006664.cpp CtoI dict m n signs t
+006665.cpp CtoI dict m n signs t
+006666.cpp CtoI dict m n signs t
+006667.cpp Q weight XY
+006668.cpp Q weight XY
+006669.cpp Q weight XY
+006670.cpp Q weight XY
+006671.cpp Q weight XY
+006672.cpp Q weight XY
+006673.cpp Q weight XY
+006674.cpp Q weight XY
+006675.cpp Q weight XY
+006676.cpp Q weight XY
+006677.cpp Q weight XY
+006678.cpp
+006679.cpp
+006681.cpp
+006682.cpp
+006683.cpp
+006685.cpp
+006686.cpp coding
+006687.cpp Q weight XY
+006688.cpp Q weight XY
+006689.cpp Q weight XY
+006690.cpp Q weight XY
+006691.cpp Q weight XY
+006692.cpp Q weight XY
+006693.cpp Q weight XY
+006694.cpp coding
+006695.cpp Q weight XY
+006696.cpp Q weight XY
+006697.cpp Q weight XY
+006698.cpp coding
+006699.cpp Q weight XY
+006700.cpp coding
+006702.cpp
+006703.cpp Q weight XY
+006705.cpp Q weight XY
+006707.cpp coding
+006708.cpp coding
+006709.cpp Q weight XY
+006710.cpp coding
+006711.cpp Q weight XY
+006712.cpp coding
+006713.cpp Q weight XY
+006715.cpp coding
+006717.cpp Q weight XY
+006718.cpp coding
+006720.cpp numbers
+006721.cpp numbers
+006723.cpp Q weight XY
+006724.cpp Q weight XY
+006726.cpp Q weight XY
+006727.cpp Q weight XY
+006728.cpp Q weight XY
+006729.cpp coding
+006730.cpp Q weight XY
+006731.cpp coding
+006732.cpp Q weight XY
+006733.cpp numbers
+006734.cpp numbers
+006737.cpp
+006738.cpp
+006739.cpp numbers
+006740.cpp
+006741.cpp
+006742.cpp
+006743.cpp
+006744.cpp Q weight XY
+006745.cpp Q weight XY
+006746.cpp Q weight XY
+006747.cpp Q weight XY
+006748.cpp Q weight XY
+006749.cpp Q weight XY
+006750.cpp Q weight XY
+006751.cpp Q weight XY
+006752.cpp Q weight XY
+006753.cpp
+006754.cpp
+006755.cpp
+006756.cpp
+006757.cpp
+006758.cpp
+006759.cpp
+006760.cpp
+006761.cpp
+006762.cpp
+006763.cpp
+006764.cpp
+006765.cpp
+006766.cpp Q weight XY
+006767.cpp Q weight XY
+006768.cpp Q weight XY
+006769.cpp Q weight XY
+006770.cpp Q weight XY
+006771.cpp Q weight XY
+006772.cpp Q weight XY
+006773.cpp Q weight XY
+006774.cpp
+006775.cpp First G index LINKS N Order Seg SegTree
+006776.cpp
+006777.cpp
+006778.cpp
+006779.cpp
+006780.cpp
+006781.cpp
+006782.cpp num0 num02 num1 num12 num2 num22 num3 num4 num42 num43 num44 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num8 num82 num83 num84 num85 num9 num92 num93 num94 num_1
+006783.cpp num0 num02 num03 num1 num12 num2 num22 num3 num4 num42 num43 num44 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num8 num82 num83 num84 num85 num9 num92 num93 num94 num_1
+006784.cpp num0 num02 num03 num1 num12 num2 num22 num3 num4 num42 num43 num44 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num8 num82 num83 num84 num85 num9 num92 num93 num94 num_1
+006785.cpp num0 num02 num03 num04 num1 num12 num2 num22 num3 num4 num42 num43 num44 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num8 num82 num83 num84 num85 num86 num9 num92 num93 num94 num_1
+006786.cpp num0 num02 num03 num04 num1 num12 num2 num22 num3 num4 num42 num43 num44 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num8 num82 num83 num84 num85 num86 num9 num92 num93 num94 num_1
+006787.cpp num0 num02 num03 num04 num1 num12 num2 num22 num3 num4 num42 num43 num44 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num72 num8 num82 num83 num84 num85 num86 num9 num92 num93 num94 num_1
+006788.cpp num0 num02 num03 num04 num1 num12 num2 num22 num3 num4 num42 num43 num44 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num72 num8 num82 num83 num84 num85 num86 num9 num92 num93 num94 num_1
+006789.cpp num0 num02 num03 num04 num1 num12 num2 num22 num23 num3 num32 num4 num42 num43 num44 num45 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num72 num8 num82 num83 num84 num85 num86 num9 num92 num93 num94 num_1
+006790.cpp
+006791.cpp num0 num02 num03 num04 num1 num12 num13 num2 num22 num23 num3 num32 num4 num42 num43 num44 num45 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num72 num8 num82 num83 num84 num85 num86 num9 num92 num93 num94 num_1
+006792.cpp num0 num02 num03 num04 num1 num12 num13 num2 num22 num23 num3 num32 num4 num42 num43 num44 num45 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num72 num8 num82 num83 num84 num85 num86 num9 num92 num93 num94 num_1
+006793.cpp num0 num02 num03 num04 num1 num12 num13 num2 num22 num23 num3 num32 num4 num42 num43 num44 num45 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num72 num8 num82 num83 num84 num85 num86 num9 num92 num93 num94 num_1
+006794.cpp
+006795.cpp
+006796.cpp num0 num02 num03 num04 num1 num12 num13 num2 num22 num23 num3 num32 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num6 num62 num63 num64 num7 num72 num8 num82 num83 num84 num85 num86 num9 num92 num93 num94 num_1
+006797.cpp
+006798.cpp
+006802.cpp
+006803.cpp
+006804.cpp
+006810.cpp
+006821.cpp
+006822.cpp
+006823.cpp
+006824.cpp
+006825.cpp
+006826.cpp
+006827.cpp
+006831.cpp
+006832.cpp
+006833.cpp
+006834.cpp
+006835.cpp
+006836.cpp
+006839.cpp
+006840.cpp
+006841.cpp
+006842.cpp num0 num02 num03 num04 num05 num06 num07 num1 num12 num13 num14 num15 num16 num2 num22 num23 num3 num32 num33 num34 num35 num36 num37 num38 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num9 num92 num93 num94 num95 num96 num97 num_1
+006843.cpp num0 num02 num03 num04 num05 num06 num07 num1 num12 num13 num14 num15 num16 num2 num22 num23 num3 num32 num33 num34 num35 num36 num37 num38 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num9 num92 num93 num94 num95 num96 num97 num_1
+006844.cpp num0 num02 num03 num04 num05 num06 num07 num1 num12 num13 num14 num15 num16 num2 num22 num23 num24 num3 num32 num33 num34 num35 num36 num37 num38 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num9 num92 num93 num94 num95 num96 num97 num_1
+006845.cpp
+006846.cpp
+006847.cpp
+006861.cpp dict
+006862.cpp dict
+006863.cpp
+006864.cpp dict
+006865.cpp
+006866.cpp dict
+006868.cpp dict
+006870.cpp dict
+006871.cpp num0 num02 num03 num04 num05 num06 num07 num1 num12 num13 num14 num15 num16 num17 num2 num22 num23 num24 num25 num3 num32 num33 num34 num35 num36 num37 num38 num39 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num69 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num9 num92 num93 num94 num95 num96 num97 num_1
+006872.cpp num0 num02 num03 num04 num05 num06 num07 num1 num12 num13 num14 num15 num16 num17 num2 num22 num23 num24 num25 num3 num32 num33 num34 num35 num36 num37 num38 num39 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num69 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num9 num92 num93 num94 num95 num96 num97 num_1
+006873.cpp dict
+006874.cpp num0 num02 num03 num04 num05 num06 num07 num08 num1 num12 num13 num14 num15 num16 num17 num2 num22 num23 num24 num25 num3 num32 num33 num34 num35 num36 num37 num38 num39 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num69 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num9 num92 num93 num94 num95 num96 num97 num_1
+006875.cpp num0 num02 num03 num04 num05 num06 num07 num08 num1 num12 num13 num14 num15 num16 num17 num2 num22 num23 num24 num25 num3 num32 num33 num34 num35 num36 num37 num38 num39 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num69 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num9 num92 num93 num94 num95 num96 num97 num_1
+006877.cpp num0 num02 num03 num04 num05 num06 num07 num08 num1 num12 num13 num14 num15 num16 num17 num2 num22 num23 num24 num25 num3 num32 num33 num34 num35 num36 num37 num38 num39 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num69 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num9 num92 num93 num94 num95 num96 num97 num_1
+006878.cpp
+006879.cpp
+006880.cpp num0 num02 num03 num04 num05 num06 num07 num08 num1 num12 num13 num14 num15 num16 num17 num18 num2 num22 num23 num24 num25 num3 num32 num33 num34 num35 num36 num37 num38 num39 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num69 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num9 num92 num93 num94 num95 num96 num97 num_1
+006882.cpp
+006886.cpp
+006887.cpp
+006888.cpp
+006889.cpp
+006891.cpp
+006892.cpp num0 num02 num03 num04 num05 num06 num07 num08 num1 num12 num13 num14 num15 num16 num17 num18 num2 num22 num23 num24 num25 num3 num32 num33 num34 num35 num36 num37 num38 num39 num4 num42 num43 num44 num45 num46 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num69 num6_10 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num8_11 num9 num92 num93 num94 num95 num96 num97 num_1
+006895.cpp num0 num02 num03 num04 num05 num06 num07 num08 num1 num12 num13 num14 num15 num16 num17 num18 num2 num22 num23 num24 num25 num3 num32 num33 num34 num35 num36 num37 num38 num39 num4 num42 num43 num44 num45 num46 num47 num5 num52 num53 num54 num55 num56 num57 num6 num62 num63 num64 num65 num66 num67 num68 num69 num6_10 num7 num72 num73 num74 num75 num8 num82 num83 num84 num85 num86 num87 num88 num89 num8_10 num8_11 num9 num92 num93 num94 num95 num96 num97 num_1
+006903.cpp
+006908.cpp
+006913.cpp
+006920.cpp dict
+006922.cpp dict
+006923.cpp dict
+006924.cpp dict
+006925.cpp dict
+006926.cpp dict
+006927.cpp dict
+006928.cpp dict
+006929.cpp dict
+006930.cpp dict
+006931.cpp dict
+006932.cpp dict
+006933.cpp dict
+006934.cpp dict
+006935.cpp dict
+006936.cpp dict
+006937.cpp dict
+006938.cpp dict
+006939.cpp dict
+006940.cpp dict
+006941.cpp dict
+006943.cpp
+006945.cpp
+006955.cpp
+006956.cpp
+006957.cpp
+006958.cpp
+006959.cpp
+006960.cpp
+006961.cpp
+006964.cpp
+006965.cpp tree
+006966.cpp tree
+006967.cpp tree
+006968.cpp tree
+006969.cpp tree
+006970.cpp tree
+006971.cpp tree
+006972.cpp tree
+006973.cpp tree
+006974.cpp tree
+006992.cpp tree
+006993.cpp tree
+006994.cpp tree
+006995.cpp N tree
+006996.cpp tree
+006997.cpp tree
+006998.cpp tree
+006999.cpp tree
+007000.cpp tree
+007001.cpp tree
+007002.cpp tree
+007003.cpp tree
+007004.cpp tree
+007005.cpp tree
+007006.cpp dict
+007007.cpp
+007008.cpp
+007009.cpp
+007010.cpp
+007011.cpp
+007012.cpp
+007024.cpp tree
+007025.cpp tree
+007026.cpp tree
+007027.cpp tree
+007028.cpp tree
+007029.cpp tree
+007030.cpp tree
+007031.cpp tree
+007032.cpp tree
+007033.cpp tree
+007034.cpp tree
+007035.cpp tree
+007036.cpp tree
+007038.cpp tree
+007039.cpp tree
+007043.cpp depths order tree values
+007045.cpp ancestor ans dsu edge g length pairs q u
+007046.cpp ancestor ans dsu edge g length pairs q u
+007047.cpp
+007051.cpp
+007052.cpp
+007053.cpp lcount N
+007055.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007056.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007057.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007058.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007059.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007060.cpp
+007061.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007062.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007063.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007064.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007065.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007066.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007067.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007068.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007069.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007070.cpp weights_hidden_0 weights_hidden_1 weights_hidden_2 weights_hidden_3 weights_hidden_4 weights_hidden_5 weights_hidden_6 weights_hidden_7 weights_hidden_8 weights_hidden_9 weights_input_0 weights_input_1 weights_input_10 weights_input_11 weights_input_12 weights_input_13 weights_input_14 weights_input_15 weights_input_2 weights_input_3 weights_input_4 weights_input_5 weights_input_6 weights_input_7 weights_input_8 weights_input_9
+007072.cpp
+007073.cpp ancestor answer_ro bound_ro finded_ro nolink parent query ro root stack tree
+007076.cpp
+007077.cpp lcount N
+007078.cpp
+007079.cpp ancestor answer_ro bound_ro finded_ro nolink parent query ro root stack tree
+007081.cpp
+007082.cpp
+007083.cpp
+007086.cpp
+007091.cpp
+007092.cpp
+007094.cpp lcount N
+007096.cpp
+007097.cpp
+007100.cpp
+007101.cpp
+007102.cpp
+007105.cpp
+007114.cpp
+007116.cpp
+007121.cpp
+007123.cpp
+007125.cpp
+007126.cpp
+007127.cpp
+007130.cpp
+007131.cpp
+007132.cpp
+007133.cpp
+007134.cpp
+007135.cpp
+007136.cpp
+007137.cpp
+007138.cpp
+007141.cpp
+007143.cpp
+007144.cpp
+007145.cpp
+007146.cpp
+007147.cpp
+007187.cpp
+007188.cpp
+007189.cpp
+007190.cpp
+007191.cpp
+007192.cpp
+007194.cpp
+007195.cpp
+007196.cpp
+007197.cpp tree
+007198.cpp tree
+007199.cpp tree
+007200.cpp tree
+007201.cpp tree
+007202.cpp tree
+007203.cpp tree
+007204.cpp tree
+007206.cpp tree
+007208.cpp tree
+007209.cpp tree
+007212.cpp tree
+007213.cpp tree
+007214.cpp tree
+007217.cpp c i ind j k l m n n1 n2 s sr str sv words words2
+007218.cpp c i ind j k l m n n1 n2 s sr str sv words words2
+007219.cpp tree
+007220.cpp c i ind j k l m n n1 n2 s sr str sv words words2
+007221.cpp tree
+007222.cpp tree
+007223.cpp tree
+007230.cpp button f N out word
+007231.cpp button f N out word
+007232.cpp button f N out word
+007233.cpp button f N out word
+007234.cpp button f N out word
+007235.cpp button f N out word
+007236.cpp tree
+007237.cpp tree
+007238.cpp tree
+007239.cpp tree
+007240.cpp
+007242.cpp
+007243.cpp
+007244.cpp
+007245.cpp
+007246.cpp
+007247.cpp
+007248.cpp
+007249.cpp
+007250.cpp
+007251.cpp
+007252.cpp vwDict
+007253.cpp
+007254.cpp
+007258.cpp
+007259.cpp
+007260.cpp vwDict
+007261.cpp vwDict
+007263.cpp vwDict
+007264.cpp vwDict
+007266.cpp vwDict
+007267.cpp vwDict
+007269.cpp
+007271.cpp vwDict
+007272.cpp c i ind j k l m n n1 n2 s sr str sv words words2
+007273.cpp c i ind j k l m n n1 n2 s sr str sv words words2
+007274.cpp
+007280.cpp
+007281.cpp
+007282.cpp tree
+007284.cpp DP N visited
+007285.cpp c i ind j k l m n n1 n2 s sr str sv words words2
+007286.cpp DP N visited
+007287.cpp
+007288.cpp tree
+007289.cpp c i ind j k l m n n1 n2 s sr str sv words words2
+007290.cpp lcount N
+007294.cpp
+007295.cpp
+007296.cpp
+007297.cpp
+007298.cpp
+007300.cpp
+007301.cpp
+007302.cpp
+007303.cpp
+007304.cpp
+007305.cpp
+007306.cpp
+007307.cpp
+007308.cpp
+007309.cpp
+007310.cpp
+007311.cpp
+007312.cpp
+007313.cpp
+007314.cpp
+007315.cpp
+007317.cpp
+007318.cpp
+007319.cpp
+007320.cpp
+007321.cpp
+007322.cpp
+007323.cpp
+007324.cpp
+007325.cpp
+007326.cpp
+007327.cpp
+007328.cpp
+007332.cpp
+007333.cpp
+007334.cpp
+007335.cpp
+007336.cpp
+007337.cpp
+007344.cpp
+007346.cpp
+007347.cpp
+007348.cpp
+007349.cpp
+007351.cpp
+007352.cpp
+007353.cpp head
+007354.cpp
+007355.cpp head
+007357.cpp
+007358.cpp
+007359.cpp
+007360.cpp
+007365.cpp chisla
+007366.cpp
+007367.cpp chisla
+007368.cpp
+007369.cpp
+007370.cpp c i ind j k l m n n1 n2 s sr str sv words words2
+007371.cpp c i ind j k l m n n1 n2 s sr str sv words words2
+007372.cpp
+007373.cpp
+007374.cpp
+007378.cpp chisla
+007379.cpp chisla
+007381.cpp lcount N
+007382.cpp
+007383.cpp
+007384.cpp
+007385.cpp
+007386.cpp
+007387.cpp
+007388.cpp slovar t9
+007390.cpp lcount N
+007391.cpp slovar t9
+007392.cpp
+007393.cpp slovar t9
+007394.cpp lcount N
+007395.cpp
+007396.cpp
+007397.cpp lcount N
+007398.cpp
+007399.cpp
+007401.cpp
+007402.cpp
+007403.cpp
+007404.cpp
+007406.cpp
+007408.cpp
+007409.cpp
+007410.cpp
+007412.cpp
+007413.cpp
+007414.cpp
+007416.cpp
+007417.cpp
+007418.cpp
+007419.cpp
+007420.cpp
+007421.cpp
+007422.cpp
+007423.cpp
+007429.cpp DFS_list LCA_tree used_in_depth_first_search vertices_height vertices_occurence
+007430.cpp DFS_list LCA_tree used_in_depth_first_search vertices_height vertices_occurence
+007431.cpp slovar t9
+007432.cpp slovar t9
+007433.cpp DFS_list LCA_tree used_in_depth_first_search vertices_height vertices_occurence
+007434.cpp slovar t9
+007435.cpp slovar t9
+007436.cpp lcount N
+007437.cpp chislo slovar t9
+007440.cpp DFS_list LCA_tree used_in_depth_first_search vertices_height vertices_occurence
+007442.cpp PR
+007443.cpp chisla
+007445.cpp PR
+007450.cpp lcount N
+007451.cpp
+007453.cpp PR
+007454.cpp AdjacencyMatrix NodeCount
+007455.cpp AdjacencyMatrix NodeCount
+007456.cpp AdjacencyMatrix NodeCount
+007457.cpp
+007458.cpp
+007459.cpp
+007460.cpp
+007461.cpp
+007462.cpp
+007463.cpp
+007464.cpp
+007465.cpp
+007466.cpp
+007467.cpp Map NodeCount
+007468.cpp
+007469.cpp
+007470.cpp
+007471.cpp Map NodeCount
+007472.cpp PR
+007473.cpp
+007474.cpp NodeCount Nodes Root
+007476.cpp DigitsToLetters
+007477.cpp DigitsToLetters
+007478.cpp
+007479.cpp
+007480.cpp
+007481.cpp
+007483.cpp lcount N
+007484.cpp
+007485.cpp lcount N
+007486.cpp lcount N
+007487.cpp DigitsToLetters
+007488.cpp DigitsToLetters LettersToDigits
+007489.cpp
+007490.cpp
+007491.cpp
+007492.cpp lcount N
+007493.cpp PR
+007494.cpp
+007495.cpp lcount N
+007496.cpp DP head N visited
+007497.cpp DP head N visited
+007500.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007501.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007502.cpp
+007503.cpp
+007504.cpp
+007505.cpp
+007506.cpp
+007512.cpp Distance g h
+007513.cpp Distance g h
+007514.cpp Distance g h
+007515.cpp Distance g h
+007516.cpp Distance g h
+007517.cpp
+007518.cpp
+007519.cpp
+007520.cpp
+007521.cpp
+007522.cpp
+007523.cpp
+007525.cpp
+007526.cpp
+007527.cpp
+007528.cpp
+007529.cpp
+007530.cpp
+007531.cpp
+007532.cpp
+007533.cpp
+007534.cpp
+007535.cpp
+007536.cpp
+007537.cpp
+007538.cpp
+007539.cpp
+007540.cpp
+007541.cpp
+007542.cpp
+007543.cpp
+007544.cpp
+007545.cpp
+007546.cpp
+007547.cpp
+007548.cpp
+007549.cpp LeftBorder RightBorder ThickEtalons ThinEtalons UnusualEtalonNumbers UnusualEtalons
+007550.cpp LeftBorder RightBorder ThickEtalons ThinEtalons UnusualEtalonNumbers UnusualEtalons
+007551.cpp LeftBorder RightBorder ThickEtalons ThinEtalons UnusualEtalonNumbers UnusualEtalons
+007552.cpp
+007553.cpp
+007554.cpp
+007555.cpp
+007556.cpp
+007557.cpp
+007558.cpp
+007559.cpp
+007560.cpp
+007561.cpp
+007562.cpp
+007563.cpp
+007564.cpp
+007565.cpp
+007566.cpp
+007567.cpp
+007568.cpp
+007569.cpp
+007570.cpp
+007571.cpp
+007572.cpp
+007575.cpp
+007578.cpp PR
+007580.cpp
+007581.cpp
+007583.cpp
+007584.cpp PR
+007585.cpp
+007586.cpp
+007587.cpp
+007589.cpp EqualVertex lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007590.cpp EqualVertex lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007593.cpp
+007594.cpp
+007597.cpp
+007598.cpp
+007599.cpp EqualVertex lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007600.cpp PR
+007601.cpp EqualVertex lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007602.cpp PR
+007603.cpp
+007604.cpp PR
+007605.cpp
+007606.cpp
+007607.cpp EqualVertex lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007608.cpp lcount N
+007609.cpp
+007610.cpp EqualVertex lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007611.cpp PR
+007612.cpp PR
+007613.cpp
+007614.cpp
+007616.cpp
+007617.cpp PR
+007618.cpp PR
+007619.cpp PR
+007620.cpp Dictionary
+007621.cpp PR
+007622.cpp
+007623.cpp
+007624.cpp
+007625.cpp
+007626.cpp
+007627.cpp
+007628.cpp
+007629.cpp
+007630.cpp
+007631.cpp a a_pos bhash block brmq bt EqualVertex g h log2 n root
+007633.cpp button dict F f i it1 it2 j n
+007634.cpp button dict F f i it1 it2 j n
+007635.cpp g input it_input n
+007636.cpp g input it_input n
+007638.cpp precomp_info
+007640.cpp dlina mass visota
+007642.cpp dlina mass visota
+007643.cpp dlina mass visota
+007644.cpp dlina mass visota
+007645.cpp dlina mass visota
+007646.cpp dlina mass visota
+007647.cpp dlina mass visota
+007648.cpp dlina mass visota
+007649.cpp dlina mass visota
+007650.cpp dlina mass visota
+007652.cpp
+007653.cpp
+007654.cpp
+007655.cpp
+007656.cpp dlina mass visota
+007657.cpp dlina mass visota
+007658.cpp dlina mass visota
+007659.cpp dlina mass visota
+007661.cpp dlina mass visota
+007662.cpp
+007663.cpp
+007664.cpp
+007665.cpp
+007672.cpp dlina mass visota
+007673.cpp dlina mass visota
+007675.cpp dlina mass visota
+007676.cpp dlina mass visota
+007677.cpp dlina mass visota
+007678.cpp dlina mass visota
+007679.cpp dlina mass visota
+007680.cpp dlina mass visota
+007681.cpp dlina mass visota
+007682.cpp dlina mass visota
+007683.cpp dlina mass visota
+007684.cpp dlina mass visota
+007685.cpp dlina mass visota
+007686.cpp dlina mass visota
+007694.cpp dlina mass visota
+007695.cpp dlina mass visota
+007696.cpp dlina mass visota
+007700.cpp ances dist_to_root logn lst marked time_in time_out timer
+007702.cpp n same_code voc voc_tree
+007703.cpp n same_code voc voc_tree
+007704.cpp n same_code voc voc_tree
+007711.cpp
+007712.cpp
+007713.cpp
+007714.cpp
+007715.cpp
+007716.cpp dlina mass visota
+007717.cpp dlina mass visota
+007718.cpp dlina mass visota
+007719.cpp dlina mass visota
+007720.cpp dlina mass visota
+007721.cpp dlina mass visota
+007722.cpp dlina mass visota
+007723.cpp dlina mass visota
+007727.cpp
+007733.cpp
+007734.cpp
+007735.cpp
+007736.cpp
+007737.cpp
+007738.cpp
+007739.cpp
+007740.cpp
+007741.cpp
+007742.cpp
+007743.cpp
+007744.cpp
+007745.cpp
+007746.cpp
+007747.cpp
+007748.cpp
+007749.cpp
+007750.cpp
+007751.cpp
+007752.cpp
+007753.cpp
+007754.cpp
+007755.cpp
+007756.cpp
+007757.cpp
+007758.cpp
+007759.cpp
+007760.cpp
+007761.cpp
+007762.cpp
+007763.cpp
+007764.cpp
+007765.cpp
+007766.cpp
+007767.cpp
+007768.cpp
+007769.cpp
+007770.cpp
+007771.cpp
+007772.cpp
+007773.cpp
+007774.cpp
+007775.cpp
+007776.cpp
+007777.cpp
+007778.cpp
+007779.cpp
+007780.cpp
+007781.cpp
+007782.cpp
+007783.cpp
+007784.cpp
+007785.cpp
+007786.cpp
+007787.cpp
+007788.cpp
+007789.cpp
+007790.cpp
+007791.cpp
+007792.cpp
+007793.cpp
+007794.cpp
+007795.cpp
+007796.cpp
+007797.cpp
+007798.cpp
+007799.cpp
+007800.cpp
+007801.cpp
+007802.cpp
+007803.cpp
+007804.cpp
+007805.cpp
+007806.cpp
+007807.cpp
+007808.cpp
+007809.cpp
+007810.cpp
+007811.cpp
+007812.cpp
+007813.cpp
+007814.cpp
+007815.cpp
+007816.cpp
+007817.cpp
+007818.cpp
+007819.cpp
+007820.cpp
+007821.cpp
+007822.cpp
+007823.cpp
+007824.cpp
+007825.cpp
+007826.cpp
+007827.cpp
+007828.cpp
+007829.cpp
+007830.cpp
+007831.cpp
+007832.cpp
+007833.cpp
+007834.cpp
+007835.cpp
+007836.cpp
+007837.cpp
+007838.cpp
+007839.cpp
+007840.cpp
+007841.cpp
+007842.cpp
+007843.cpp
+007844.cpp
+007845.cpp
+007846.cpp
+007847.cpp
+007848.cpp
+007849.cpp
+007850.cpp
+007851.cpp
+007852.cpp
+007853.cpp
+007854.cpp
+007855.cpp
+007856.cpp
+007857.cpp
+007858.cpp
+007859.cpp
+007860.cpp
+007861.cpp
+007862.cpp
+007863.cpp
+007864.cpp
+007865.cpp
+007866.cpp
+007867.cpp
+007868.cpp
+007869.cpp
+007870.cpp
+007871.cpp
+007872.cpp
+007873.cpp
+007874.cpp
+007875.cpp
+007876.cpp
+007877.cpp
+007878.cpp
+007879.cpp
+007880.cpp
+007881.cpp
+007882.cpp
+007883.cpp
+007884.cpp
+007885.cpp
+007886.cpp
+007887.cpp
+007888.cpp
+007889.cpp
+007890.cpp
+007891.cpp
+007892.cpp
+007893.cpp
+007894.cpp
+007895.cpp
+007896.cpp
+007897.cpp
+007898.cpp
+007899.cpp
+007900.cpp
+007901.cpp
+007902.cpp
+007903.cpp
+007904.cpp
+007905.cpp
+007906.cpp
+007907.cpp
+007908.cpp
+007909.cpp
+007910.cpp
+007911.cpp
+007912.cpp
+007913.cpp
+007914.cpp
+007915.cpp
+007916.cpp dlina mass visota
+007917.cpp dlina mass visota
+007918.cpp dlina mass visota
+007919.cpp dlina mass visota
+007920.cpp dlina mass visota
+007921.cpp dlina mass visota
+007922.cpp dlina mass visota
+007923.cpp dlina mass visota
+007925.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007927.cpp a a_pos abs_h bhash block brmq bt g h log2 n root
+007928.cpp a a_pos abs_h bhash block brmq bt g h log2 n root
+007929.cpp lca_dfs_h lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007930.cpp first_2 lca_dfs_h lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+007936.cpp
+007937.cpp
+007938.cpp
+007939.cpp
+007941.cpp
+007942.cpp
+007943.cpp
+007944.cpp tree
+007952.cpp ancestors first G H n order segmentsTree used
+007953.cpp ancestors first G H n order segmentsTree used
+007955.cpp ancestors first G H n order segmentsTree used
+007957.cpp
+007958.cpp
+007959.cpp
+007960.cpp
+007961.cpp
+007962.cpp
+007967.cpp Dictionary Tree9
+007968.cpp _q dist predst q res snm ways
+007969.cpp _q dist predst q res snm ways
+007970.cpp
+007971.cpp
+007978.cpp
+007979.cpp
+007980.cpp
+007981.cpp Dictionary Tree9
+007982.cpp a c dx dy height image p str width
+007983.cpp a c dx dy height image p str width
+007984.cpp
+007990.cpp Graph lca_dfs_list lca_first lca_h lca_hw lca_tree
+007991.cpp dictionary
+007996.cpp tree
+007997.cpp tree
+008004.cpp
+008005.cpp
+008007.cpp
+008008.cpp
+008009.cpp a tree
+008011.cpp b d g l n t tin tout up
+008014.cpp
+008015.cpp b d g l n t tin tout up
+008016.cpp mp n root t
+008017.cpp mp n root t
+008018.cpp a c dx dy height image p str width
+008019.cpp a c dx dy height image p str width
+008034.cpp a1 a2 a3 a4 c dx dy height image width
+008035.cpp a1 a2 a3 a4 c dx dy height image width
+008036.cpp a1 a2 a3 a4 c dx dy height image width
+008037.cpp a1 a2 a3 a4 c dx dy height image width
+008038.cpp a1 a2 a3 a4 c dx dy height image width
+008039.cpp a1 a2 a3 a4 c dx dy height image width
+008040.cpp a1 a2 a3 a4 c dx dy height image width
+008041.cpp a1 a2 a3 a4 c dx dy height image width
+008042.cpp a1 a2 a3 a4 c dx dy height image width
+008043.cpp a1 a2 a3 a4 c dx dy height image width
+008044.cpp a1 a2 a3 a4 c dx dy height image width
+008045.cpp a1 a2 a3 a4 c dx dy height image width
+008046.cpp a1 a2 a3 a4 c dx dy height image width
+008047.cpp a1 a2 a3 a4 c dx dy height image width
+008048.cpp a1 a2 a3 a4 c dx dy height image width
+008049.cpp a1 a2 a3 a4 c dx dy height image width
+008059.cpp costG g l n timer tin tout up used
+008063.cpp costG g l n timer tin tout up used
+008064.cpp costG g l n timer tin tout up used
+008065.cpp costG g l n timer tin tout up used
+008066.cpp costG g l n timer tin tout up used
+008067.cpp costG g l n timer tin tout up used
+008068.cpp costG g l n timer tin tout up used
+008069.cpp g l n timer tin tout up used
+008071.cpp g l n timer tin tout up used
+008104.cpp
+008105.cpp
+008106.cpp
+008107.cpp
+008108.cpp
+008109.cpp
+008110.cpp
+008111.cpp
+008112.cpp
+008113.cpp
+008114.cpp
+008115.cpp
+008116.cpp
+008117.cpp
+008119.cpp
+008120.cpp
+008121.cpp
+008122.cpp
+008123.cpp
+008124.cpp
+008125.cpp
+008126.cpp
+008128.cpp
+008130.cpp
+008131.cpp
+008132.cpp
+008133.cpp
+008134.cpp
+008135.cpp
+008136.cpp
+008137.cpp
+008138.cpp
+008139.cpp
+008140.cpp
+008141.cpp
+008142.cpp
+008143.cpp
+008144.cpp
+008145.cpp
+008146.cpp
+008147.cpp
+008149.cpp e flag i j k l m n p xk xn
+008150.cpp e flag i j k l m n p xk xn
+008151.cpp e flag i j k l m n p xk xn
+008152.cpp
+008153.cpp
+008154.cpp
+008155.cpp
+008156.cpp
+008157.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+008158.cpp
+008159.cpp
+008160.cpp
+008161.cpp
+008162.cpp
+008163.cpp
+008164.cpp
+008165.cpp
+008166.cpp
+008167.cpp
+008168.cpp
+008169.cpp
+008170.cpp
+008171.cpp
+008172.cpp
+008173.cpp
+008174.cpp
+008175.cpp
+008176.cpp
+008177.cpp
+008178.cpp ancestor dfs_h dsu g q u
+008179.cpp cache lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+008180.cpp lca_dfs_used ribs way
+008181.cpp lca_dfs_used ribs way
+008182.cpp query query_list used way
+008184.cpp
+008186.cpp
+008187.cpp
+008188.cpp
+008189.cpp
+008190.cpp
+008191.cpp
+008192.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+008193.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+008194.cpp ancestor dfs_h dsu g q u
+008196.cpp
+008197.cpp
+008198.cpp
+008199.cpp
+008200.cpp
+008201.cpp order r
+008202.cpp order r
+008203.cpp order r
+008204.cpp
+008208.cpp
+008209.cpp
+008210.cpp fl head i p pt rez sum tail xk xn
+008219.cpp t9map words_map
+008220.cpp t9map words_map
+008231.cpp t9map words_map
+008232.cpp t9map words_map
+008233.cpp t9map words_map
+008234.cpp t9map words_map
+008235.cpp order r
+008236.cpp dqueue lengthDQ pointerBegDQ pointerEndDQ
+008237.cpp dqueue lengthDQ pointerBegDQ pointerEndDQ
+008240.cpp dqueue lengthDQ pointerBegDQ pointerEndDQ
+008241.cpp dqueue lengthDQ pointerBegDQ pointerEndDQ
+008248.cpp c2d codes codes_list codes_n dict n parent root_index son w
+008249.cpp c2d codes codes_list codes_n dict n parent root_index son w
+008250.cpp c2d codes codes_list codes_n dict n parent root_index son w
+008259.cpp graph Log M masLen N rootsToFind timer tin tout up used
+008260.cpp graph Log M masLen N rootsToFind timer tin tout up used
+008261.cpp graph Log M masLen N rootsToFind timer tin tout up used
+008262.cpp graph Log M N timer tin tout up used
+008263.cpp g Log M N timer tin tout up used
+008268.cpp
+008270.cpp raw tree vertex_count
+008271.cpp
+008275.cpp
+008286.cpp dictionary N
+008287.cpp dictionary N
+008289.cpp dictionary N
+008290.cpp dictionary N
+008291.cpp
+008293.cpp dfs_time_in dfs_time_out dfs_used_vertex timer_for_dfs
+008294.cpp dictionary N
+008295.cpp dictionary N
+008296.cpp dictionary N
+008297.cpp dictionary N
+008298.cpp g l timer tin tout up up_len used
+008299.cpp g l timer tin tout up up_len used
+008300.cpp g l timer tin tout up up_len used
+008309.cpp ancestor dsu g M minAncestor q request u
+008310.cpp ancestor dsu g M minAncestor q request u
+008319.cpp
+008329.cpp
+008330.cpp
+008331.cpp
+008332.cpp
+008333.cpp
+008334.cpp
+008336.cpp
+008337.cpp
+008338.cpp
+008339.cpp
+008340.cpp
+008341.cpp
+008342.cpp
+008343.cpp
+008345.cpp ancestor dsu elements g M minAncestor minAncestors q request u
+008348.cpp ancestor dsu elements g M minAncestor minAncestors q request u
+008349.cpp ancestor dsu elements g M minAncestor minAncestors q request u
+008351.cpp ancestor dsu elements g M minAncestor minAncestors q request u
+008352.cpp
+008356.cpp dsu element elements g M q qLinks results sum temp1 temp2 tempEl u
+008357.cpp dsu element elements g M q qLinks results sum temp1 temp2 tempEl u
+008358.cpp dsu element elements g M q qLinks results sum temp1 temp2 tempEl u
+008360.cpp ans been dim komp m n number number_m number_n pict signal
+008361.cpp ans been dim komp m n number number_m number_n pict signal
+008365.cpp ans been dim komp m n number number_m number_n pict signal
+008371.cpp
+008373.cpp
+008374.cpp ans been dim komp m n number number_m number_n pict signal
+008375.cpp
+008378.cpp ans been dim komp m n number number_m number_n pict signal
+008379.cpp ans been dim komp m n number number_m number_n pict signal
+008383.cpp ans been dim komp m n number number_m number_n pict signal
+008384.cpp ans been dim komp m n number number_m number_n pict signal
+008385.cpp ans been dim komp m n number number_m number_n pict signal
+008388.cpp Ancestor Answer DSU Graph Order Path Quest Spans Used
+008393.cpp
+008394.cpp
+008408.cpp
+008414.cpp ans been been_n color dim komp m n number number_m number_n pict signal
+008415.cpp ans been been_n color dim komp m n number number_m number_n pict signal
+008418.cpp ans been dim komp m n number number_m number_n pict signal
+008423.cpp ans been dim komp m n number number_m number_n pict signal
+008424.cpp ans been dim komp m n number number_m number_n pict signal
+008429.cpp ans been dim komp m n number number_m number_n pict signal
+008433.cpp ans been dim komp m n number number_m number_n pict signal
+008435.cpp ans been dim komp m n number number_m number_n pict signal
+008436.cpp ans been dim komp m n number number_m number_n pict signal
+008437.cpp ans been dim komp m n number number_m number_n pict signal
+008438.cpp ans been dim komp m n number number_m number_n pict signal
+008440.cpp in_file out_file
+008441.cpp in_file out_file
+008442.cpp in_file out_file
+008443.cpp in_file out_file
+008444.cpp ans been dim komp m n number number_m number_n pict signal
+008445.cpp ans been dim komp m n number number_m number_n pict signal
+008446.cpp in_file out_file
+008447.cpp in_file out_file
+008448.cpp in_file out_file
+008449.cpp in_file out_file
+008450.cpp ans been dim komp m n number number_m number_n pict signal
+008452.cpp
+008453.cpp
+008456.cpp
+008458.cpp
+008459.cpp
+008468.cpp Changes Dict grp_num Head Message Rate T9 Word
+008470.cpp
+008471.cpp
+008472.cpp
+008477.cpp
+008483.cpp ancestor ans dsu g m n o p price q query u
+008484.cpp ancestor ans dsu g m n o p price q query u
+008487.cpp
+008488.cpp
+008492.cpp
+008493.cpp ans been decide m n number number_m number_n pict signal
+008494.cpp ans been decide m n number number_m number_n pict signal
+008495.cpp ans been decide m n number number_m number_n pict signal
+008496.cpp DFS_list DFS_used first node_height segment_tree
+008502.cpp DFS_list DFS_used first node_height segment_tree
+008506.cpp DFS_list DFS_used first node_height segment_tree
+008513.cpp
+008514.cpp vocabulary
+008520.cpp
+008521.cpp vocabulary
+008522.cpp sampleDigits scannedDigits
+008523.cpp sampleDigits scannedDigits
+008524.cpp vocabulary
+008526.cpp
+008527.cpp index input_line output_line vocabulary
+008528.cpp index input_line output_line vocabulary
+008529.cpp
+008530.cpp
+008531.cpp
+008532.cpp
+008533.cpp DFS_list DFS_used first node_height nodes_quantity path previous segment_tree tree
+008534.cpp DFS_list DFS_used first node_height nodes_quantity path previous segment_tree tree
+008535.cpp DFS_list DFS_used first node_height nodes_quantity path segment_tree temp_edge tree
+008536.cpp DFS_list DFS_used first node_height nodes_quantity path segment_tree temp_edge tree
+008541.cpp
+008543.cpp
+008544.cpp Tree
+008545.cpp Tree
+008552.cpp
+008553.cpp Dict
+008554.cpp Dict
+008556.cpp Dict Num
+008559.cpp alphabet
+008560.cpp Dict Num
+008562.cpp alphabet
+008563.cpp Dict Num
+008564.cpp alphabet
+008565.cpp alphabet
+008571.cpp alphabet
+008572.cpp alphabet
+008574.cpp alphabet
+008576.cpp alphabet
+008577.cpp alphabet

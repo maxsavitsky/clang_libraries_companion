@@ -1,0 +1,1312 @@
+000000.cpp ancestor ansv cost graph M N p qr query u
+000001.cpp
+000002.cpp
+000003.cpp
+000004.cpp
+000005.cpp
+000006.cpp
+000007.cpp edge tree
+000008.cpp dic phrase TDIC TWORD
+000009.cpp
+000010.cpp
+000011.cpp dic phrase TDIC TWORD
+000013.cpp
+000014.cpp
+000016.cpp
+000017.cpp
+000018.cpp
+000019.cpp
+000024.cpp numbers
+000025.cpp
+000026.cpp numbers
+000027.cpp numbers
+000029.cpp dic phrase TDIC TWORD
+000030.cpp dic phrase TDIC TWORD
+000031.cpp dic phrase TDIC TWORD
+000033.cpp numbers
+000034.cpp numbers
+000035.cpp numbers
+000036.cpp numbers
+000037.cpp numbers
+000038.cpp numbers
+000040.cpp
+000041.cpp
+000042.cpp
+000043.cpp
+000044.cpp
+000045.cpp g maxHeight n timer tin tout up used
+000046.cpp g maxHeight n timer tin tout up used
+000047.cpp
+000048.cpp
+000049.cpp
+000050.cpp
+000051.cpp
+000052.cpp
+000053.cpp
+000054.cpp Dictionary
+000055.cpp Dictionary
+000056.cpp Dictionary
+000057.cpp Dictionary
+000058.cpp Dictionary
+000059.cpp node nodeCount
+000060.cpp childNode node nodeCount
+000061.cpp childNode node nodeCount
+000062.cpp childNode node nodeCount
+000063.cpp childNode node nodeCount root
+000064.cpp
+000065.cpp
+000066.cpp Dictionary
+000067.cpp
+000068.cpp
+000069.cpp Dictionary
+000070.cpp
+000071.cpp Dictionary
+000072.cpp Dictionary
+000073.cpp Dictionary
+000075.cpp
+000076.cpp
+000077.cpp clo
+000078.cpp clo
+000079.cpp char_counter start
+000080.cpp char_counter start
+000081.cpp char_counter start
+000082.cpp char_counter more_than_mil rht start
+000083.cpp char_counter more_than_mil rht start
+000084.cpp
+000086.cpp ancestor dist dsu qq res result root tree used
+000087.cpp
+000088.cpp
+000089.cpp
+000092.cpp
+000093.cpp
+000094.cpp
+000095.cpp
+000096.cpp
+000097.cpp
+000098.cpp
+000099.cpp
+000101.cpp
+000102.cpp
+000103.cpp start
+000104.cpp start
+000105.cpp start
+000106.cpp start
+000107.cpp start
+000108.cpp
+000109.cpp
+000111.cpp M N PeakTree Ways WayTree
+000112.cpp M N PeakTree Ways WayTree
+000114.cpp M N PeakTree Ways WayTree
+000116.cpp N PeakTree WayTree
+000117.cpp
+000118.cpp
+000124.cpp Dictionary
+000125.cpp Dictionary
+000126.cpp Dictionary
+000127.cpp
+000129.cpp edge tree
+000130.cpp edge tree
+000131.cpp
+000132.cpp Dictionary
+000133.cpp
+000134.cpp edge tree
+000135.cpp Dictionary
+000136.cpp Dictionary
+000137.cpp Dictionary
+000138.cpp Dictionary
+000139.cpp Dictionary
+000140.cpp Dictionary
+000141.cpp Dictionary
+000143.cpp edge tree
+000144.cpp dic phrase TDIC TWORD
+000145.cpp dic phrase TDIC TWORD
+000146.cpp dic phrase TDIC TWORD
+000147.cpp dic phrase TDIC TWORD
+000148.cpp dic phrase TDIC TWORD
+000149.cpp dic phrase TDIC TWORD
+000150.cpp dic phrase TDIC TWORD
+000151.cpp dic phrase TDIC TWORD
+000152.cpp dic phrase TDIC TWORD
+000153.cpp dic phrase TDIC TWORD
+000154.cpp dic phrase TDIC TWORD
+000155.cpp dic phrase TDIC TWORD
+000156.cpp dic phrase TDIC TWORD
+000157.cpp dictionary
+000158.cpp dictionary
+000159.cpp dictionary
+000160.cpp dictionary
+000161.cpp dictionary
+000162.cpp dictionary
+000163.cpp dictionary
+000164.cpp dictionary
+000165.cpp dic mem_block mem_offset phrase TDIC TWORD
+000166.cpp dic mem_block mem_offset phrase phrase_decode phrase_offs TDIC TWORD
+000167.cpp dic mem_block mem_offset phrase phrase_decode phrase_offs TDIC TWORD
+000168.cpp dic mem_block mem_offset phrase phrase_decode phrase_offs TDIC TWORD
+000169.cpp dictionary
+000170.cpp dic mem_block mem_offset phrase phrase_decode phrase_offs TDIC TWORD
+000171.cpp
+000174.cpp
+000175.cpp
+000176.cpp
+000177.cpp T
+000178.cpp
+000179.cpp
+000180.cpp
+000181.cpp
+000191.cpp
+000192.cpp
+000193.cpp
+000194.cpp
+000195.cpp
+000196.cpp
+000197.cpp
+000198.cpp
+000199.cpp
+000200.cpp
+000201.cpp
+000202.cpp buttons
+000207.cpp
+000210.cpp
+000224.cpp
+000226.cpp
+000234.cpp
+000235.cpp
+000237.cpp
+000240.cpp
+000242.cpp
+000248.cpp
+000249.cpp
+000250.cpp
+000251.cpp
+000252.cpp
+000253.cpp
+000254.cpp
+000255.cpp dictionary
+000256.cpp
+000257.cpp
+000258.cpp
+000259.cpp
+000260.cpp
+000265.cpp
+000268.cpp
+000269.cpp
+000270.cpp
+000271.cpp
+000272.cpp
+000274.cpp
+000275.cpp
+000276.cpp
+000277.cpp
+000278.cpp
+000279.cpp
+000280.cpp
+000281.cpp
+000283.cpp
+000284.cpp
+000287.cpp
+000288.cpp
+000289.cpp
+000290.cpp
+000292.cpp
+000293.cpp
+000294.cpp ancestor depth dsu visited
+000295.cpp
+000296.cpp
+000297.cpp
+000299.cpp
+000301.cpp
+000304.cpp
+000306.cpp
+000307.cpp
+000308.cpp
+000309.cpp
+000310.cpp
+000311.cpp
+000312.cpp
+000313.cpp
+000314.cpp
+000315.cpp
+000316.cpp
+000317.cpp
+000318.cpp
+000319.cpp
+000320.cpp
+000321.cpp
+000322.cpp
+000324.cpp
+000325.cpp
+000326.cpp
+000327.cpp
+000328.cpp
+000329.cpp
+000330.cpp
+000331.cpp
+000332.cpp
+000333.cpp
+000334.cpp
+000335.cpp
+000336.cpp
+000337.cpp
+000338.cpp
+000339.cpp
+000340.cpp
+000341.cpp
+000342.cpp
+000343.cpp
+000344.cpp
+000345.cpp
+000346.cpp
+000347.cpp
+000348.cpp
+000349.cpp
+000350.cpp
+000351.cpp
+000352.cpp
+000358.cpp
+000359.cpp
+000360.cpp
+000362.cpp
+000367.cpp dictionary
+000368.cpp
+000369.cpp
+000370.cpp
+000371.cpp
+000372.cpp
+000373.cpp
+000374.cpp
+000375.cpp
+000377.cpp
+000378.cpp
+000379.cpp
+000380.cpp
+000381.cpp
+000382.cpp
+000383.cpp
+000384.cpp
+000385.cpp
+000386.cpp
+000387.cpp
+000388.cpp
+000389.cpp
+000390.cpp
+000391.cpp
+000392.cpp
+000393.cpp
+000394.cpp
+000395.cpp
+000396.cpp
+000397.cpp
+000398.cpp
+000399.cpp
+000400.cpp
+000401.cpp
+000403.cpp
+000404.cpp
+000405.cpp
+000406.cpp dictionary
+000408.cpp instr keyboard num_of_words voc
+000409.cpp dictionary
+000411.cpp
+000412.cpp
+000413.cpp instr keyboard num_of_words voc
+000417.cpp
+000418.cpp dictionary
+000419.cpp M N PeakTree Ways WayTree
+000420.cpp dictionary
+000421.cpp
+000422.cpp M N PeakTree Ways WayTree
+000423.cpp N PeakTree WayTree
+000424.cpp
+000425.cpp
+000426.cpp
+000427.cpp
+000428.cpp
+000433.cpp
+000434.cpp
+000435.cpp
+000436.cpp
+000437.cpp M N PeakTree Ways WayTree
+000438.cpp dictionary
+000439.cpp
+000440.cpp
+000441.cpp
+000442.cpp
+000444.cpp p_EXPR1 p_EXPR2 p_EXPR3 p_EXPR4
+000445.cpp instr keyboard num_of_words voc
+000446.cpp instr keyboard num_of_words voc
+000447.cpp p_EXPR1 p_EXPR2 p_EXPR3
+000451.cpp p_EXPR1 p_EXPR2 p_EXPR3 p_SYMBS
+000452.cpp p_EXPR1 p_EXPR2 p_EXPR3 p_SYMBS
+000453.cpp p_EXPR1 p_EXPR2 p_EXPR3
+000454.cpp
+000455.cpp
+000456.cpp
+000457.cpp
+000458.cpp
+000460.cpp
+000461.cpp
+000463.cpp it itlow itnew its T9 T9s znaki
+000464.cpp it itlow itnew its T9 T9s znaki
+000465.cpp
+000466.cpp
+000467.cpp
+000468.cpp
+000469.cpp
+000470.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+000471.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+000472.cpp
+000475.cpp instr keyboard num_of_words voc
+000476.cpp p_EXPR1 p_EXPR2 p_EXPR3
+000477.cpp
+000480.cpp p_EXPR1 p_EXPR2 p_EXPR3
+000481.cpp p_EXPR1 p_EXPR2 p_EXPR3
+000484.cpp p_EXPR1 p_EXPR2 p_EXPR3
+000486.cpp instr keyboard num_of_words voc
+000488.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+000489.cpp p_EXPR1 p_EXPR2 p_EXPR3 p_SYMBS
+000490.cpp
+000491.cpp
+000492.cpp
+000498.cpp
+000500.cpp p_EXPR1 p_EXPR2 p_EXPR3
+000501.cpp p_EXPR1 p_EXPR2 p_EXPR3
+000507.cpp freepoints g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+000508.cpp freepoints g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+000509.cpp lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+000519.cpp freepoints g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+000521.cpp
+000522.cpp g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree query_nodes_from query_nodes_to s
+000525.cpp g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree query_nodes_from query_nodes_to s
+000526.cpp g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree query_nodes_from query_nodes_to s
+000527.cpp g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree query_nodes_from query_nodes_to s
+000529.cpp
+000530.cpp freepoints g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree
+000531.cpp
+000532.cpp p_EXPR1 p_EXPR2 p_EXPR3 p_SYMBS
+000533.cpp
+000534.cpp p_EXPR1 p_EXPR2 p_EXPR3 p_SYMBS
+000535.cpp
+000537.cpp instr keyboard num_of_words voc
+000538.cpp instr keyboard num_of_words voc
+000539.cpp
+000540.cpp
+000542.cpp
+000543.cpp mask
+000544.cpp
+000549.cpp instr keyboard num_of_words voc
+000550.cpp
+000551.cpp
+000552.cpp
+000553.cpp g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree root
+000554.cpp g lca_dfs_list lca_dfs_used lca_first lca_h lca_tree root
+000555.cpp mask
+000556.cpp mask
+000557.cpp mask
+000558.cpp mask
+000559.cpp mask
+000560.cpp mask
+000561.cpp
+000572.cpp
+000573.cpp
+000574.cpp
+000575.cpp
+000578.cpp
+000579.cpp mask
+000580.cpp mask
+000581.cpp
+000584.cpp
+000587.cpp changes comma cur_template current_words word_template WORDS WORDS_of_len
+000588.cpp changes comma cur_template current_words word_template WORDS WORDS_of_len
+000589.cpp changes comma cur_template current_words word_template WORDS WORDS_of_len
+000591.cpp changes comma cur_template current_words word_template WORDS WORDS_of_len
+000592.cpp changes comma cur_template current_words word_template WORDS WORDS_of_len
+000593.cpp changes comma cur_template current_words word_template WORDS WORDS_of_len
+000595.cpp
+000596.cpp
+000597.cpp
+000598.cpp
+000599.cpp
+000600.cpp
+000601.cpp
+000602.cpp
+000603.cpp
+000604.cpp
+000605.cpp
+000606.cpp
+000607.cpp
+000608.cpp
+000609.cpp
+000610.cpp
+000611.cpp
+000617.cpp changes comma cur_template current_words word_template WORDS WORDS_of_len
+000619.cpp Dictionary N
+000620.cpp
+000621.cpp Dictionary N
+000622.cpp Dictionary N
+000623.cpp Dictionary N
+000624.cpp Dictionary N
+000631.cpp
+000648.cpp image image_height image_width shapes
+000650.cpp
+000651.cpp
+000677.cpp
+000681.cpp
+000682.cpp
+000685.cpp
+000686.cpp char_keys
+000687.cpp char_keys
+000688.cpp char_keys
+000689.cpp char_keys
+000690.cpp
+000691.cpp char_keys
+000692.cpp
+000693.cpp
+000694.cpp
+000702.cpp char_keys
+000703.cpp
+000704.cpp char_keys
+000705.cpp char_keys
+000706.cpp char_keys
+000707.cpp
+000708.cpp
+000709.cpp
+000710.cpp char_keys
+000711.cpp char_keys
+000712.cpp
+000713.cpp
+000714.cpp
+000716.cpp
+000720.cpp
+000721.cpp
+000722.cpp
+000727.cpp
+000734.cpp
+000735.cpp
+000736.cpp
+000737.cpp
+000742.cpp
+000743.cpp
+000744.cpp
+000745.cpp
+000746.cpp
+000747.cpp
+000748.cpp
+000749.cpp
+000750.cpp
+000751.cpp
+000755.cpp
+000756.cpp
+000757.cpp
+000758.cpp
+000761.cpp
+000763.cpp
+000764.cpp
+000765.cpp
+000766.cpp
+000767.cpp
+000768.cpp
+000769.cpp
+000770.cpp
+000771.cpp
+000772.cpp
+000773.cpp
+000774.cpp
+000775.cpp
+000777.cpp
+000778.cpp
+000779.cpp
+000780.cpp
+000781.cpp
+000783.cpp
+000784.cpp
+000785.cpp
+000786.cpp
+000787.cpp
+000788.cpp
+000791.cpp
+000792.cpp
+000793.cpp
+000794.cpp
+000795.cpp
+000796.cpp
+000797.cpp
+000798.cpp
+000799.cpp
+000800.cpp
+000801.cpp
+000803.cpp
+000804.cpp
+000805.cpp
+000806.cpp
+000807.cpp
+000808.cpp
+000809.cpp
+000810.cpp
+000811.cpp
+000812.cpp
+000813.cpp
+000814.cpp
+000815.cpp
+000828.cpp len_word max_freq max_len N
+000829.cpp len_word max_freq max_len N
+000830.cpp len_word max_freq max_len N
+000831.cpp len_word max_freq max_len N
+000832.cpp len_word max_freq max_len N
+000833.cpp len_word max_freq max_len N
+000834.cpp len_word max_freq max_len N
+000835.cpp len_word max_freq max_len N
+000836.cpp len_word max_freq max_len N
+000838.cpp len_word max_freq max_len N
+000839.cpp len_word max_freq max_len N
+000840.cpp len_word max_freq max_len N
+000841.cpp len_word max_freq max_len N
+000842.cpp len_word max_freq max_len N
+000843.cpp len_word max_freq max_len N
+000844.cpp len_word max_freq max_len N
+000845.cpp len_word max_freq max_len N
+000846.cpp len_word max_freq max_len N
+000847.cpp len_word max_freq max_len N
+000848.cpp
+000850.cpp
+000851.cpp
+000852.cpp
+000857.cpp
+000858.cpp
+000859.cpp
+000860.cpp
+000862.cpp
+000867.cpp
+000868.cpp
+000869.cpp
+000870.cpp
+000872.cpp
+000873.cpp
+000874.cpp
+000875.cpp
+000876.cpp
+000879.cpp
+000880.cpp
+000882.cpp
+000895.cpp
+000897.cpp
+000900.cpp etalons
+000901.cpp etalons
+000902.cpp etalons
+000903.cpp etalons
+000904.cpp etalons
+000905.cpp etalons
+000906.cpp etalons
+000907.cpp etalons
+000908.cpp etalons
+000909.cpp etalons
+000910.cpp e
+000911.cpp e
+000912.cpp e
+000913.cpp e
+000914.cpp e
+000915.cpp e
+000916.cpp e
+000917.cpp e
+000918.cpp e
+000919.cpp e
+000920.cpp e
+000921.cpp e
+000922.cpp
+000923.cpp
+000924.cpp
+000925.cpp
+000926.cpp
+000927.cpp
+000931.cpp
+000932.cpp
+000933.cpp
+000944.cpp
+000954.cpp
+000955.cpp
+000957.cpp
+000960.cpp gr l n_pair numNodes timer tin tout up used ws
+000961.cpp gr l n_pair numNodes timer tin tout up used ws
+000962.cpp gr l n_pair numNodes timer tin tout up used ws
+000963.cpp arr
+000964.cpp arr
+000965.cpp arr
+000966.cpp
+000969.cpp gr l n_pair numNodes timer tin tout up used ws
+000970.cpp
+000971.cpp
+000972.cpp
+000973.cpp arr
+000975.cpp out
+000976.cpp arr fstFit lastFit v_temp vec_char ws
+000978.cpp arr_weights d errorMax errorSum eta identityMtx numE picture v_in ws
+000979.cpp
+000980.cpp
+000981.cpp
+000983.cpp arr vec_char ws
+000984.cpp arr fstFit lastFit v_temp vec_char ws
+000989.cpp arr_weights d errorMax errorSum eta identityMtx numE picture v_in ws
+000990.cpp arr_weights d errorMax errorSum eta identityMtx numE picture v_in ws
+000992.cpp
+000993.cpp
+000994.cpp
+000995.cpp out wordNum
+000996.cpp
+000997.cpp
+000998.cpp
+000999.cpp out wordNum
+001000.cpp
+001001.cpp out wordNum
+001002.cpp out wordNum
+001003.cpp pathFinder
+001004.cpp
+001005.cpp arr fstFit lastFit v_temp vec_char ws
+001006.cpp smsRecognizer
+001008.cpp arr borders fstFit lastFit v_temp vec_char vec_seq ws
+001010.cpp
+001011.cpp
+001013.cpp out wordNum
+001016.cpp arr_weights borders d errorMax errorSum eta neuro_wid numE picture v_in ws
+001017.cpp wordNum
+001018.cpp
+001019.cpp
+001020.cpp
+001022.cpp
+001023.cpp
+001024.cpp
+001025.cpp search
+001027.cpp
+001036.cpp arr0 arr1 arr2 arr3 arr4 arr5 arr6 arr7 arr8 arr9 borders n0 n1 n2 n3 n4 n5 n6 n7 n8 n9 neuro_wid picture v_distance v_in vec_digit
+001039.cpp
+001040.cpp
+001041.cpp dict fi fo number_value puncts
+001053.cpp nodeNum search trueWay
+001054.cpp
+001055.cpp
+001056.cpp
+001057.cpp
+001058.cpp
+001059.cpp
+001060.cpp
+001061.cpp nodeNum search trueWay
+001062.cpp
+001063.cpp
+001064.cpp
+001065.cpp nodeNum search
+001066.cpp
+001068.cpp
+001069.cpp arr_weights borders d eta h_borders neuro_wid numE picture v_in ws
+001070.cpp
+001071.cpp
+001072.cpp
+001073.cpp
+001076.cpp
+001077.cpp
+001078.cpp
+001079.cpp
+001081.cpp
+001082.cpp
+001084.cpp
+001085.cpp finish nodeNum search
+001087.cpp
+001088.cpp
+001089.cpp
+001090.cpp dict fi fo number_value puncts
+001091.cpp
+001092.cpp
+001093.cpp
+001094.cpp
+001095.cpp
+001096.cpp
+001097.cpp
+001098.cpp
+001099.cpp
+001102.cpp image n okno
+001103.cpp image n okno
+001104.cpp image n okno
+001105.cpp image n okno
+001106.cpp
+001107.cpp image n okno
+001108.cpp
+001111.cpp
+001112.cpp
+001113.cpp
+001114.cpp
+001115.cpp
+001116.cpp
+001117.cpp
+001118.cpp
+001119.cpp
+001125.cpp
+001130.cpp
+001131.cpp
+001133.cpp
+001134.cpp
+001135.cpp
+001136.cpp
+001137.cpp
+001138.cpp
+001139.cpp
+001140.cpp e
+001141.cpp
+001142.cpp e
+001143.cpp
+001144.cpp
+001145.cpp
+001146.cpp
+001147.cpp e
+001148.cpp
+001149.cpp e
+001151.cpp
+001152.cpp
+001153.cpp
+001154.cpp e
+001155.cpp
+001156.cpp
+001157.cpp
+001158.cpp
+001159.cpp
+001160.cpp
+001161.cpp
+001162.cpp e
+001163.cpp e
+001164.cpp
+001165.cpp
+001166.cpp
+001167.cpp
+001170.cpp
+001171.cpp
+001172.cpp
+001173.cpp
+001182.cpp
+001183.cpp
+001185.cpp allForks finish nodeNum search
+001186.cpp allForks finish nodeNum search
+001187.cpp allForks nodeNum
+001191.cpp allForks nodeNum
+001192.cpp allForks nodeNum
+001193.cpp allForks nodeNum
+001194.cpp allForks nodeNum
+001195.cpp allForks nodeNum
+001196.cpp allForks nodeNum
+001203.cpp arr_weights borders d eta h_borders neuro_wid numE picture v_in ws
+001212.cpp
+001214.cpp
+001215.cpp
+001217.cpp
+001288.cpp
+001289.cpp
+001290.cpp
+001308.cpp
+001309.cpp
+001310.cpp
+001311.cpp
+001312.cpp
+001313.cpp
+001314.cpp
+001315.cpp
+001316.cpp
+001317.cpp
+001318.cpp
+001319.cpp
+001321.cpp
+001323.cpp
+001334.cpp g l lngs n timer tin tout up used
+001345.cpp g l lngs n timer tin tout up used
+001347.cpp
+001348.cpp
+001349.cpp
+001350.cpp
+001352.cpp
+001353.cpp
+001354.cpp
+001355.cpp
+001356.cpp
+001357.cpp
+001358.cpp
+001359.cpp
+001360.cpp
+001361.cpp g l lngs n timer tin tout up used
+001362.cpp
+001365.cpp
+001375.cpp
+001376.cpp
+001377.cpp
+001378.cpp
+001379.cpp
+001380.cpp
+001381.cpp
+001382.cpp but1 find_str
+001383.cpp but1 find_str
+001385.cpp
+001388.cpp but1 find_str
+001390.cpp but1 find_str
+001391.cpp but1 find_str
+001392.cpp but1 find_str
+001393.cpp but1 find_str
+001395.cpp but1 find_str
+001397.cpp but1 find_str
+001398.cpp MainDictionary
+001399.cpp MainDictionary
+001400.cpp MainDictionary
+001401.cpp MainDictionary
+001402.cpp a a_pos bhash block brmq bt g h log2 n root sum
+001403.cpp a a_pos bhash block brmq bt g h log2 n root sum
+001404.cpp MainDictionary
+001407.cpp graph
+001408.cpp graph
+001409.cpp graph
+001410.cpp graph
+001412.cpp a a_pos bhash block brmq bt g h log2 n root sum
+001414.cpp
+001415.cpp
+001417.cpp
+001421.cpp
+001422.cpp
+001423.cpp
+001424.cpp
+001425.cpp
+001426.cpp
+001427.cpp
+001428.cpp
+001429.cpp
+001430.cpp
+001431.cpp
+001432.cpp
+001433.cpp
+001434.cpp
+001435.cpp
+001436.cpp
+001437.cpp
+001438.cpp
+001450.cpp but1 buttons find_str vanswers words
+001461.cpp
+001462.cpp
+001463.cpp but1 buttons find_str vanswers words
+001464.cpp
+001471.cpp but1 buttons find_str words
+001472.cpp but1 buttons find_str words
+001473.cpp but1 buttons find_str vfind words
+001507.cpp
+001508.cpp
+001509.cpp
+001510.cpp
+001511.cpp
+001512.cpp
+001513.cpp
+001514.cpp
+001515.cpp
+001516.cpp
+001517.cpp
+001519.cpp
+001528.cpp
+001548.cpp
+001549.cpp
+001550.cpp
+001551.cpp
+001552.cpp but1 buttons find_str vanswers words
+001555.cpp
+001557.cpp
+001563.cpp current star
+001564.cpp current star
+001565.cpp current star
+001568.cpp current star
+001571.cpp current star
+001573.cpp current star
+001574.cpp current star
+001575.cpp current star
+001576.cpp current star
+001577.cpp current star
+001579.cpp current star
+001580.cpp current maxCombiSize star
+001583.cpp current star
+001586.cpp
+001587.cpp lca_dfs_list lca_dfs_list2 lca_dfs_used lca_first lca_h lca_tree
+001588.cpp
+001589.cpp
+001590.cpp lca_dfs_list lca_dfs_list2 lca_dfs_used lca_first lca_h lca_tree
+001591.cpp
+001592.cpp lca_dfs_list lca_dfs_list2 lca_dfs_used lca_first lca_h lca_tree
+001593.cpp lca_dfs_list lca_dfs_list2 lca_dfs_used lca_first lca_h lca_tree
+001594.cpp lca_dfs_list lca_dfs_used lca_first
+001595.cpp lca_dfs_list lca_dfs_used lca_first
+001596.cpp lca_dfs_list lca_dfs_used lca_first
+001597.cpp lca_dfs_list lca_dfs_used lca_first
+001598.cpp endflag index lca_dfs_list lca_dfs_used lca_first v2
+001599.cpp endflag lca_dfs_list lca_dfs_used v2
+001600.cpp dist
+001601.cpp dist
+001602.cpp endflag lca_dfs_list lca_dfs_used v2
+001603.cpp dist
+001604.cpp dist
+001605.cpp endflag lca_dfs_list lca_dfs_used v2
+001606.cpp depth depth_bin g parent used way way_bin
+001607.cpp depth depth_bin g parent used way way_bin
+001608.cpp depth depth_bin g nodes parent used way way_bin
+001609.cpp
+001610.cpp
+001611.cpp
+001612.cpp
+001613.cpp
+001614.cpp
+001616.cpp dictionary
+001618.cpp
+001622.cpp
+001623.cpp
+001626.cpp charToParse image NewX1 NewX2 NewY1 NewY2 res ScaleX ScaleY standard x x1 y
+001627.cpp charToParse image NewX1 NewX2 NewY1 NewY2 res ScaleX ScaleY standard x x1 y
+001629.cpp
+001630.cpp
+001631.cpp
+001632.cpp
+001633.cpp
+001635.cpp dict dict_num freq keyboard
+001636.cpp dict dict_num freq keyboard
+001637.cpp dict dict_num freq keyboard
+001638.cpp dict dict_num freq keyboard
+001639.cpp dict dict_num freq keyboard
+001640.cpp dict dict_num freq keyboard
+001641.cpp dict dict_num freq keyboard
+001642.cpp dict dict_num freq keyboard
+001643.cpp charToParse image NewX1 NewX2 NewY1 NewY2 res ScaleX ScaleY standard x x1 y
+001644.cpp depth depth_bin graph Nodes parent used way way_bin
+001645.cpp dict dict_num freq keyboard
+001646.cpp dict dict_num freq keyboard
+001647.cpp charToParse image NewX1 NewX2 NewY1 NewY2 res ScaleX ScaleY standard x x1 y
+001648.cpp charToParse image NewX1 NewX2 NewY1 NewY2 res ScaleX ScaleY standard x x1 y
+001649.cpp dict dict_num freq keyboard
+001650.cpp dict dict_num freq keyboard
+001651.cpp
+001652.cpp len mistake test tree used
+001653.cpp charToParse image NewX1 NewX2 NewY1 NewY2 res ScaleX ScaleY standard x x1 y
+001654.cpp
+001655.cpp
+001656.cpp
+001657.cpp
+001658.cpp
+001659.cpp
+001660.cpp
+001661.cpp
+001662.cpp
+001663.cpp
+001664.cpp
+001665.cpp
+001666.cpp charToParse image NewX1 NewX2 NewY1 NewY2 res ScaleX ScaleY standard x x1 y
+001667.cpp
+001668.cpp
+001669.cpp
+001670.cpp
+001671.cpp
+001672.cpp dict dict_num freq keyboard
+001673.cpp dict dict_num freq keyboard
+001674.cpp dict dict_num freq keyboard
+001675.cpp dict dict_num freq keyboard
+001676.cpp dict dict_num freq keyboard
+001677.cpp dict dict_num freq keyboard
+001678.cpp dict dict_num freq keyboard
+001679.cpp dict dict_num freq keyboard
+001680.cpp dict dict_num freq keyboard
+001681.cpp dict dict_num freq keyboard
+001682.cpp dict dict_num freq keyboard
+001683.cpp
+001684.cpp
+001685.cpp charToParse image NewX1 NewX2 NewY1 NewY2 res ScaleX ScaleY standard x x1 y
+001686.cpp charToParse image NewX1 NewX2 NewY1 NewY2 res ScaleX ScaleY standard x x1 y
+001687.cpp
+001688.cpp
+001689.cpp
+001690.cpp
+001691.cpp dict dict_num freq keyboard
+001692.cpp dict dict_num freq keyboard
+001699.cpp
+001700.cpp
+001701.cpp
+001702.cpp
+001703.cpp
+001704.cpp
+001707.cpp
+001708.cpp
+001709.cpp
+001710.cpp
+001711.cpp
+001712.cpp
+001713.cpp
+001715.cpp g gr l n timer tin tout up used
+001716.cpp g gr l n timer tin tout up used
+001717.cpp g gr l n timer tin tout up used
+001718.cpp g gr l n timer tin tout up used
+001719.cpp g gr l n timer tin tout up used
+001721.cpp
+001722.cpp
+001723.cpp
+001724.cpp
+001725.cpp
+001726.cpp
+001728.cpp
+001729.cpp
+001730.cpp
+001731.cpp
+001732.cpp
+001733.cpp
+001734.cpp
+001735.cpp
+001736.cpp
+001737.cpp
+001738.cpp
+001740.cpp dist g h M N timer tin tout up used
+001742.cpp
+001743.cpp
+001745.cpp buttons
+001746.cpp buttons
+001747.cpp buttons
+001748.cpp
+001751.cpp
+001752.cpp
+001753.cpp
+001754.cpp
+001755.cpp
+001757.cpp
+001758.cpp
+001759.cpp
+001760.cpp
+001761.cpp
+001762.cpp
+001763.cpp
+001764.cpp
+001765.cpp
+001766.cpp
+001768.cpp root
+001769.cpp root
+001772.cpp ans color dist Element g m n tests
+001781.cpp
+001785.cpp
+001786.cpp
+001787.cpp
+001788.cpp N voc
+001789.cpp N voc
+001790.cpp N voc
+001791.cpp N voc
+001792.cpp N voc
+001793.cpp N voc
+001794.cpp N voc
+001795.cpp N voc
+001796.cpp N voc
+001798.cpp
+001799.cpp
+001800.cpp
+001801.cpp
+001802.cpp
+001803.cpp
+001804.cpp
+001805.cpp
+001806.cpp
+001807.cpp
+001808.cpp
+001809.cpp
+001810.cpp
+001811.cpp
+001812.cpp
+001813.cpp
+001814.cpp
+001815.cpp
+001816.cpp
+001817.cpp
+001818.cpp
+001819.cpp
+001820.cpp
+001821.cpp
+001822.cpp
+001823.cpp
+001824.cpp
+001825.cpp
+001826.cpp
+001827.cpp
+001828.cpp
+001829.cpp buttons
+001830.cpp
+001831.cpp
+001832.cpp
+001833.cpp
+001834.cpp buttons
+001835.cpp dict dictsize inputstring keyboard localdict maxword minword n node1 outputstring point
+001836.cpp first graph height order visited
+001837.cpp dict dictsize inputstring keyboard keynumb localdict maxword minword node1 outputstring point
+001838.cpp dict dictsize inputstring keyboard keynumb localdict maxword minword node1 outputstring point
+001839.cpp dict dictsize inputstring keyboard keynumb localdict maxword minword node1 outputstring point
+001847.cpp dict dictsize inputstring keyboard keynumb localdict maxword minword node1 outputstring point
+001883.cpp H Height KolBlk KolWht NameFile num NUMBER NumFile Output Plot rez symb UniNum Ves W Weight WhtNmb
+001900.cpp idealletters inputarray letters scaledletters
+001913.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001914.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001915.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001916.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001917.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001918.cpp Active Graf i j k Label Last M N Start V
+001919.cpp h i j k N temp temp_code temp_rate
+001920.cpp Active Graf i j k Label Last M N Start V
+001921.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001922.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001923.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001924.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001925.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001927.cpp Active Graf i j k Label Last M N Start V
+001928.cpp a a_pos bhash block brmq bt g h h_long log2
+001929.cpp Active Graf i j k Label Last M N Start V v_1 v_2
+001930.cpp a a_pos bhash block brmq bt g h h_long log2
+001933.cpp a a_pos bhash block brmq bt g h h_long log2
+001936.cpp h i j k m N t temp temp_code temp_rate
+001937.cpp a a_pos bhash block brmq bt g h h_long log2
+001939.cpp
+001940.cpp
+001941.cpp
+001942.cpp Active Graf i j k Label Last M N Start Temp V
+001943.cpp h i j k m N t temp temp_code temp_rate
+001944.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001947.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001949.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001950.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001951.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001952.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001953.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001954.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001955.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001956.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001957.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001958.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001959.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001960.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001961.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001962.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001963.cpp Active Graf i j k Label Last M N Start Temp V
+001965.cpp Active Graf i j k Label Last M N Start Temp V
+001966.cpp Active Graf i j k Label Last M N Start Temp V
+001970.cpp Active Graf h i j k Label Last M min_pos minim N Start Temp V
+001971.cpp Active Graf h i j k Label Last M min_pos minim N Start Temp V
+001972.cpp Active Graf i j k Label Last M N Start Temp V
+001973.cpp Active Graf i j k Label Last M N Start Temp V
+001974.cpp Active Graf i j k Label Last M N Start Temp V
+001975.cpp h i j k m N t temp temp_code temp_rate
+001976.cpp h i j k m N t temp temp_code temp_rate
+001977.cpp i j k m N t temp temp_code temp_rate
+001978.cpp i j k m N t temp temp_code temp_rate
+001979.cpp Active Graf i j k Label Last M N Start Temp V
+001980.cpp Active_Down Active_Up Graf i i_Down i_Up j k Label_Down Label_Up Last M N Start temp Temp V
+001981.cpp Active_Down Active_Up Graf i i_Down i_Up j k Label_Down Label_Up Last M N Start Temp temp_S V
+001982.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001983.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001984.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001985.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001986.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001987.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001988.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001989.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001990.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001991.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001992.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001993.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001994.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001995.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001996.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001997.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001998.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+001999.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002000.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002001.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002002.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002003.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002004.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002005.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002006.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002007.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002008.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002009.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002011.cpp
+002012.cpp start
+002013.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002015.cpp Active Graf i j k Label Last M N Start Temp V
+002016.cpp Active Graf i j k Label Last M N Start Temp V
+002017.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002018.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002019.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002020.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002021.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002022.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002027.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002028.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002029.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002030.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002031.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002032.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002033.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002034.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002035.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002036.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002037.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002038.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002039.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002040.cpp start
+002041.cpp start
+002057.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002058.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002059.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002060.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002061.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002062.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002063.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002064.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002066.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002067.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002068.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002069.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002070.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002071.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002072.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002073.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002074.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002075.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002076.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002077.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002079.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002080.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002083.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002085.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002088.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002090.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002091.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002092.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002093.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002094.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002095.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002096.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002097.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002098.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002100.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002102.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002105.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002106.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002107.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002108.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002109.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002110.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002111.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002112.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002113.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002114.cpp
+002115.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002116.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002117.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002118.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002119.cpp dict dictsize inputstring keyboard keynumb localdict maxword minword node1 outputstring point
+002120.cpp dict dictsize inputstring keyboard keynumb localdict maxword minword node1 outputstring point
+002121.cpp dict dictsize inputstring keyboard keynumb localdict maxword minword node1 outputstring point
+002122.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002123.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002124.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002125.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002127.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002129.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002130.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002131.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002132.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
+002133.cpp dict dictsize inputstring keyboard keynumb localdict maxword minword node1 outputstring point
+002134.cpp H Input KolBlk KolWht NUMBER numH numV Plot rez UniNum Ves W WhtNmb
